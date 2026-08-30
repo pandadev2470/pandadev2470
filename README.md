@@ -1,4 +1,4 @@
-### PandaDev
+### Welcome to PandaDev GitHub
 
 Developers | Builders | Creators
 
@@ -17,8 +17,8 @@ Arduino · Raspberry Pi · ESP32
 PostgreSQL · SQLAlchemy · Redis
 
 ## Featured Project
--  https://www.thepandadev.com/
--
+-  xxx-xxx
+-  xxxxxx
 
 
 # Website: https://www.thepandadev.com/
