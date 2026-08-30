@@ -23,7 +23,5 @@ PandaDev Platform
 Multi-language Flask platform with 5 language support, RTL for Hebrew & Arabic, custom admin dashboard, Stripe payments, Resend email integration, and secure guest access system.
 Connect
 Platform	Link
-Website	thepandadev.com
+Website	https://www.thepandadev.com
 Email	admin@thepandadev.com
-
-Building solutions that drive results.
