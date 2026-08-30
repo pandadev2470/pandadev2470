@@ -1,8 +1,7 @@
 ### Welcome to PandaDev GitHub
 
-Developers | Builders | Creators
+##  Developers | Builders | Creators
 
-Website · GitHub · Email
 
 ## About
 Full-stack developers specializing in custom websites, web applications, and business software. Focused on building scalable solutions that help companies grow, automate, and succeed online.
