@@ -1,27 +1,26 @@
 ### PandaDev
 
-Developer | Builder | Creator
+Developers | Builders | Creators
 
 Website · GitHub · Email
-About
 
-Full-stack developer specializing in custom websites, web applications, and business software. Focused on building scalable solutions that help companies grow, automate, and succeed online.
-Tech Stack
+## About
+Full-stack developers specializing in custom websites, web applications, and business software. Focused on building scalable solutions that help companies grow, automate, and succeed online.
 
-Python · JavaScript · TypeScript · C · C++
+## Tech Stack
+Python · SQL · JavaScript · TypeScript · C · C++ · Arduino
 Flask · React · Next.js · Tailwind CSS
 Pandas · TensorFlow · PyTorch · scikit-learn
 AWS · Docker · Kubernetes · Render
 React Native · Flutter
 Arduino · Raspberry Pi · ESP32
 PostgreSQL · SQLAlchemy · Redis
-Featured Project
 
-PandaDev Platform — Multi-language Flask application with 5 languages, RTL support, Stripe payments, Resend email, and custom admin dashboard.
+## Featured Project
+-  https://www.thepandadev.com/
+-
 
-View Project →
-Connect
 
-## Website: thepandadev.com
-## Email: admin@thepandadev.com
-## GitHub: github.com/pandadev2470
+# Website: https://www.thepandadev.com/
+# Email: admin@thepandadev.com
+# GitHub: github.com/pandadev2470
