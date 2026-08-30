@@ -20,6 +20,11 @@ PostgreSQL · SQLAlchemy · Redis
 -  xxxxxx
 
 
-# Website: https://www.thepandadev.com/
 # Email: admin@thepandadev.com
 # GitHub: github.com/pandadev2470
+# Website: 
+- (English) https://www.thepandadev.com/?lang=en
+- (Spanish) https://www.thepandadev.com/?lang=es
+- (Hebrew) https://www.thepandadev.com/?lang=he
+- (Hindu) https://www.thepandadev.com/?lang=hi
+- (Arabic) https://www.thepandadev.com/?lang=ar    
