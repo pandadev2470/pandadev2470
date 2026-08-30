@@ -15,7 +15,7 @@ React Native · Flutter
 Arduino · Raspberry Pi · ESP32
 PostgreSQL · SQLAlchemy · Redis
 
-## Featured Project
+## Featured Projects
 -  xxx-xxx
 -  xxxxxx
 
