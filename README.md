@@ -1,17 +1,14 @@
 <!--
   ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║                                                                           ║
   ║   ██████╗  █████╗ ███╗   ██╗██████╗  █████╗ ██████╗ ███████╗██╗   ██╗     ║
   ║   ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║     ║
   ║   ██████╔╝███████║██╔██╗ ██║██║  ██║███████║██║  ██║█████╗  ██║   ██║     ║
   ║   ██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██╔══██║██║  ██║██╔══╝  ╚██╗ ██╔╝     ║
   ║   ██║     ██║  ██║██║ ╚████║██████╔╝██║  ██║██████╔╝███████╗ ╚████╔╝      ║
   ║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝       ║
-  ║                                                                           ║
   ║   > SYSTEM BOOT SEQUENCE INITIATED...                                     ║
   ║   > LOADING PROFILE: panda.dev                                            ║
-  ║   > STATUS: ONLINE                                                         ║
-  ║                                                                           ║
+  ║   > STATUS: ONLINE                                                        ║
   ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -42,8 +39,6 @@ $ cat mission.txt
 > and business software. We architect scalable solutions that help companies
 > grow, automate, and succeed online.
 
-$ cat philosophy.txt
-> "Clean code. Scalable systems. Real-world impact."
 # developer.config.yml
 identity:
   name: "PandaDev"
@@ -146,3 +141,6 @@ $ exit
 > Connection terminated. See you in the code. 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=footer&fontColor=000000" /></div> ```
+
+$ cat philosophy.txt
+> "Clean code. Scalable systems. Real-world impact."
