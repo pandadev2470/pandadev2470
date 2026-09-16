@@ -152,7 +152,7 @@ current_focus:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pandadev2470&theme=dark&background=000000&border=00f7ff&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=ffffff)](https://github.com/pandadev2470)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=pandadev2470&theme=dark&background=000000&border=00f7ff&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=ffffff)](https://github.com/pandadev2470)
 
 </div>
 
