@@ -16,8 +16,10 @@ Arduino · Raspberry Pi · ESP32
 PostgreSQL · SQLAlchemy · Redis
 
 ## Featured Projects
--  xxx-xxx
--  xxxxxx
+-  https://www.clarethub.com/
+-  https://www.musligo.com/
+-  https://www.thepandadev.com/
+-  https://www.berrieboo.com/
 
 
 # Email: admin@thepandadev.com
