@@ -1,0 +1,18 @@
+# developer.config.yml
+identity:
+  name: "PandaDev"
+  role: "Full-Stack Developer & Systems Engineer"
+  location: "🌍 Remote / Global"
+  status: "🟢 Available for collaboration"
+
+expertise:
+  - Web Application Development
+  - Backend Architecture & APIs
+  - Machine Learning Integration
+  - IoT & Embedded Systems
+  - Cloud Infrastructure
+
+current_focus:
+  - Building scalable SaaS platforms
+  - AI-powered business solutions
+  - Cross-platform mobile applications
