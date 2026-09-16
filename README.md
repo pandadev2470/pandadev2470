@@ -131,7 +131,7 @@ current_focus:
 
 | `🚀 Project` | `📡 Domain` | `🔗 Link` |
 |:---:|:---:|:---:|
-| **Clarethub** | Platform Solutions | [clarethub.com](https://www.clarethub.com/) |
+| **Clarethub** | Personal Portfolio | [clarethub.com](https://www.clarethub.com/) |
 | **Musligo** | Digital Services | [musligo.com](https://www.musligo.com/) |
 | **PandaDev** | Agency Portfolio | [thepandadev.com](https://www.thepandadev.com/) |
 | **Berrieboo** | E-Commerce | [berrieboo.com](https://www.berrieboo.com/) |
