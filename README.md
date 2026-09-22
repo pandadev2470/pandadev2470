@@ -136,6 +136,7 @@ current_focus:
 | **PandaDev** | Agency Portfolio | [thepandadev.com](https://www.thepandadev.com/) |
 | **Berrieboo** | E-Commerce | [berrieboo.com](https://www.berrieboo.com/) |
 | **GameHub Central** | Game Development| [GameHubCentral.com](https://gamehubcentral.onrender.com/) |
+| **Panda3dPrints** | 3D Printing Online Store| [Panda3DPrints.com](https://panda3dprints.onrender.com/) |
 
 
 </div>
