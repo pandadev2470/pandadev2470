@@ -132,11 +132,10 @@ current_focus:
 | `🚀 Project` | `📡 Domain` | `🔗 Link` |
 |:---:|:---:|:---:|
 | **Clarethub** | Personal Portfolio | [clarethub.com](https://www.clarethub.com/) |
-| **Musligo** | Digital Services | [musligo.com](https://www.musligo.com/) |
 | **PandaDev** | Agency Portfolio | [thepandadev.com](https://www.thepandadev.com/) |
 | **Berrieboo** | E-Commerce | [berrieboo.com](https://www.berrieboo.com/) |
-| **GameHub Central** | Game Development| [GameHubCentral.com](https://gamehubcentral.onrender.com/) |
-| **Panda3dPrints** | 3D Printing Online Store| [Panda3DPrints.com](https://panda3dprints.onrender.com/) |
+| **GameHub JS** | Javascript Game Development (Three.js)| [GameHubJS.com](https://gamehubjs.com/) |
+| **Panda3dPrints** | Online 3D Printing Store| [Panda3DPrints.com](https://panda3dprints.com/) |
 
 
 </div>
