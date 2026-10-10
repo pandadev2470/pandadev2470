@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://vulnhawk.app">
-  <img src="./assets/logo_app.svg" alt="VulnHawk.app" width="260" />
+  <img src="./assets/logo_app.svg" alt="VulnHawk.app" width="280" />
 </a>
 
-# VulnHawk
+# 🟢 VulnHawk
 
-### Find vulnerabilities before attackers do.
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Find+vulnerabilities+before+attackers+do.;Scan+smarter.+Ship+safer.;Security+that+developers+can+use." alt="Animated VulnHawk tagline" /></a>
 
-**Web Security Scanner · Built by PandaDev**
+**WEB SECURITY SCANNER · BUILT BY PANDADEV**
 
 <a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/LAUNCH-VulnHawk-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Launch VulnHawk" /></a>
 <img src="https://img.shields.io/badge/83-Security%20Checks-07110e?style=for-the-badge&logoColor=00ff9d" alt="83 security checks" />
@@ -22,13 +22,17 @@
 
 ---
 
-<h2 align="center">PandaDev <code>// Developer & Security Engineer</code></h2>
+<h2 align="center">🧑‍💻 PandaDev <code>// Developer & Security Engineer</code></h2>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07110e,50:073b2a,100:00ff9d&height=3&section=header" width="100%" alt="" />
+</div>
 
 <div align="center">
 
-Building secure web apps, scalable APIs, and practical software.
+<h3>Building secure web apps, scalable APIs, and practical software.</h3>
 
-*"Clean code. Scalable systems. Real-world impact."*
+<em>Clean code. Scalable systems. Real-world impact.</em>
 
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Portfolio-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio" /></a>
 <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" /></a>
@@ -38,12 +42,12 @@ Building secure web apps, scalable APIs, and practical software.
 
 ---
 
-<h2 align="center">VulnHawk <code>// Project Brief</code></h2>
+<h2 align="center">🛡️ VulnHawk <code>// Project Brief</code></h2>
 
 <div align="center">
+  <h3>A web vulnerability scanner built from the ground up.</h3>
   <p align="center">
-    A web vulnerability scanner built from the ground up, featuring a live dashboard,<br />
-    categorized findings, and downloadable security reports.
+    Live dashboard · Categorized findings · Downloadable security reports
   </p>
 </div>
 
@@ -72,7 +76,7 @@ Building secure web apps, scalable APIs, and practical software.
 
 ---
 
-<h2 align="center">Selected Projects <code>// 01—06</code></h2>
+<h2 align="center">🚀 Feature Projects</h2>
 
 <div align="center">
 
@@ -89,51 +93,63 @@ Building secure web apps, scalable APIs, and practical software.
 
 ---
 
-<h2 align="center">Toolbox <code>// Stack</code></h2>
+<h2 align="center">⚡ Toolbox <code>// Stack</code></h2>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-07110e?style=flat-square&logo=python&logoColor=00ff9d)
-![JavaScript](https://img.shields.io/badge/JavaScript-07110e?style=flat-square&logo=javascript&logoColor=00ff9d)
-![TypeScript](https://img.shields.io/badge/TypeScript-07110e?style=flat-square&logo=typescript&logoColor=00ff9d)
-![React](https://img.shields.io/badge/React-07110e?style=flat-square&logo=react&logoColor=00ff9d)
-![Next.js](https://img.shields.io/badge/Next.js-07110e?style=flat-square&logo=nextdotjs&logoColor=00ff9d)
-![Tailwind](https://img.shields.io/badge/Tailwind-07110e?style=flat-square&logo=tailwindcss&logoColor=00ff9d)
-![FastAPI](https://img.shields.io/badge/FastAPI-07110e?style=flat-square&logo=fastapi&logoColor=00ff9d)
-![Flask](https://img.shields.io/badge/Flask-07110e?style=flat-square&logo=flask&logoColor=00ff9d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07110e?style=flat-square&logo=postgresql&logoColor=00ff9d)
-![Redis](https://img.shields.io/badge/Redis-07110e?style=flat-square&logo=redis&logoColor=00ff9d)
-![Docker](https://img.shields.io/badge/Docker-07110e?style=flat-square&logo=docker&logoColor=00ff9d)
-![AWS](https://img.shields.io/badge/AWS-07110e?style=flat-square&logo=amazonwebservices&logoColor=00ff9d)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-07110e?style=flat-square&logo=tensorflow&logoColor=00ff9d)
-![PyTorch](https://img.shields.io/badge/PyTorch-07110e?style=flat-square&logo=pytorch&logoColor=00ff9d)
-![React Native](https://img.shields.io/badge/React_Native-07110e?style=flat-square&logo=react&logoColor=00ff9d)
-![Flutter](https://img.shields.io/badge/Flutter-07110e?style=flat-square&logo=flutter&logoColor=00ff9d)
-![Arduino](https://img.shields.io/badge/Arduino-07110e?style=flat-square&logo=arduino&logoColor=00ff9d)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-07110e?style=flat-square&logo=raspberrypi&logoColor=00ff9d)
-![ESP32](https://img.shields.io/badge/ESP32-07110e?style=flat-square&logo=espressif&logoColor=00ff9d)
-![C](https://img.shields.io/badge/C-07110e?style=flat-square&logo=c&logoColor=00ff9d)
-![C++](https://img.shields.io/badge/C%2B%2B-07110e?style=flat-square&logo=cplusplus&logoColor=00ff9d)
-![SQL](https://img.shields.io/badge/SQL-07110e?style=flat-square&logo=postgresql&logoColor=00ff9d)
+![Python](https://img.shields.io/badge/Python-07110e?style=for-the-badge&logo=python&logoColor=00ff9d)
+![JavaScript](https://img.shields.io/badge/JavaScript-07110e?style=for-the-badge&logo=javascript&logoColor=00ff9d)
+![TypeScript](https://img.shields.io/badge/TypeScript-07110e?style=for-the-badge&logo=typescript&logoColor=00ff9d)
+![React](https://img.shields.io/badge/React-07110e?style=for-the-badge&logo=react&logoColor=00ff9d)
+![Next.js](https://img.shields.io/badge/Next.js-07110e?style=for-the-badge&logo=nextdotjs&logoColor=00ff9d)
+![Tailwind](https://img.shields.io/badge/Tailwind-07110e?style=for-the-badge&logo=tailwindcss&logoColor=00ff9d)
+![FastAPI](https://img.shields.io/badge/FastAPI-07110e?style=for-the-badge&logo=fastapi&logoColor=00ff9d)
+![Flask](https://img.shields.io/badge/Flask-07110e?style=for-the-badge&logo=flask&logoColor=00ff9d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07110e?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
+![Redis](https://img.shields.io/badge/Redis-07110e?style=for-the-badge&logo=redis&logoColor=00ff9d)
+![Docker](https://img.shields.io/badge/Docker-07110e?style=for-the-badge&logo=docker&logoColor=00ff9d)
+![AWS](https://img.shields.io/badge/AWS-07110e?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9d)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-07110e?style=for-the-badge&logo=tensorflow&logoColor=00ff9d)
+![PyTorch](https://img.shields.io/badge/PyTorch-07110e?style=for-the-badge&logo=pytorch&logoColor=00ff9d)
+![React Native](https://img.shields.io/badge/React_Native-07110e?style=for-the-badge&logo=react&logoColor=00ff9d)
+![Flutter](https://img.shields.io/badge/Flutter-07110e?style=for-the-badge&logo=flutter&logoColor=00ff9d)
+![Arduino](https://img.shields.io/badge/Arduino-07110e?style=for-the-badge&logo=arduino&logoColor=00ff9d)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-07110e?style=for-the-badge&logo=raspberrypi&logoColor=00ff9d)
+![ESP32](https://img.shields.io/badge/ESP32-07110e?style=for-the-badge&logo=espressif&logoColor=00ff9d)
+![C](https://img.shields.io/badge/C-07110e?style=for-the-badge&logo=c&logoColor=00ff9d)
+![C++](https://img.shields.io/badge/C%2B%2B-07110e?style=for-the-badge&logo=cplusplus&logoColor=00ff9d)
+![SQL](https://img.shields.io/badge/SQL-07110e?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
 
 </div>
 
 ---
 
-<h2 align="center">GitHub <code>// Activity</code></h2>
+<h2 align="center">📈 GitHub <code>// Activity & Consistency</code></h2>
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=07110e&title_color=00ff9d&icon_color=00ff9d&text_color=e6fff5" alt="PandaDev GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=07110e&title_color=00ff9d&text_color=e6fff5" alt="Most used languages" />
+<a href="https://github.com/pandadev2470">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pandadev2470&theme=dark&hide_border=true&background=07110e&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=e6fff5&dates=9ab8ac" alt="PandaDev GitHub commit streak" />
+</a>
 
+<br />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=07110e&title_color=00ff9d&icon_color=00ff9d&text_color=e6fff5&rank_icon=github" alt="PandaDev GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=07110e&title_color=00ff9d&text_color=e6fff5" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9d,50:073b2a,100:07110e&height=3&section=footer" width="100%" alt="" />
 </div>
 
 ---
 
 <div align="center">
 
-**Build boldly. Ship securely.**
+<h3>💚 Build boldly. Ship securely.</h3>
+
+<img src="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00a86b&label=PROFILE+VIEWS" alt="Profile views" />
 
 [thepandadev.com](https://www.thepandadev.com) · [vulnhawk.app](https://vulnhawk.app) · [GitHub](https://github.com/pandadev2470)
 
