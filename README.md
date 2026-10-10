@@ -45,7 +45,9 @@
 **Highlights**
 - 60+ free browser games, with more games planned.
 - Global leaderboards and player community features.
-- Responsive gaming experience with an energetic purple-and-pink visual identity.
+- Play instantly — no plugins or downloads.
+- Full Responsive design - Works on desktop, tablet, and mobile.
+- Always free — no ads or in-game purchases.
 
 </details>
 
