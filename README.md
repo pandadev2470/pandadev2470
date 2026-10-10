@@ -1,4 +1,29 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  FILE: app/static/img/logo.svg
+  PURPOSE: VulnHawk full lockup — dark mode. Slightly enlarged wordmark
+           for better visibility in the header at h-8.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 40" fill="none" role="img" aria-label="VulnHawk">
+  <!-- Mark -->
+  <g transform="translate(0, 4) scale(0.5)">
+    <path d="M32 4 L56 14 V32 C56 46 46 56 32 60 C18 56 8 46 8 32 V14 Z"
+          fill="#0a0e0d" stroke="#00ff9d" stroke-width="1.5"/>
+    <path d="M16 32 C20 24 28 20 32 20 C36 20 44 24 48 32 C44 40 36 44 32 44 C28 44 20 40 16 32 Z"
+          fill="#00ff9d"/>
+    <ellipse cx="32" cy="32" rx="4" ry="8" fill="#0a0e0d"/>
+    <circle cx="30.5" cy="29" r="1.5" fill="#c5ffe5" opacity="0.9"/>
+  </g>
+
+  <!-- Wordmark — larger, tighter -->
+  <text x="40" y="28"
+        font-family="'JetBrains Mono', ui-monospace, monospace"
+        font-size="22" font-weight="700" letter-spacing="-0.8"
+        fill="#f0f4f2">VulnHawk</text>
+</svg>
+
+<img width="300" height="57" alt="logo" src="https://github.com/user-attachments/assets/2883244e-d7c7-4e79-81a3-9617e1c16852" />
 <img width="1599" height="787" alt="image" src="https://github.com/user-attachments/assets/24b5110e-ce62-42bc-b995-c81dc5a35d57" />
 
 
