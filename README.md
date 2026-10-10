@@ -142,7 +142,7 @@
 | Coverage | 83 checks · 10 categories |
 | Framework | OWASP Top 10:2025 |
 | Stack | Python · FastAPI · SQLAlchemy · PostgreSQL |
-| UI & infrastructure | Jinja2 · Tailwind CSS · Three.js · Docker · Render |
+| UI & infrastructure | Jinja2 · Tailwind CSS · Three.js · Docker |
 | Exports | PDF · XLSX · HTML · Markdown · CSV · JSON · SARIF |
 
 </div>
