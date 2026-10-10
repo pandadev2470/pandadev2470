@@ -18,6 +18,37 @@
 
 </div>
 
+
+<details>
+<summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
+
+<div align="center">
+
+<a href="https://www.gamehubjs.com/">
+  <img src="./assets/logo2.app" alt="GameHubJS logo" width="340" />
+</a>
+
+<a href="https://www.gamehubjs.com/">
+  <img src="./assets/GameHubJS_Demo.png" alt="GameHubJS gaming platform dashboard" width="100%" />
+</a>
+
+<h3>Where Players Become Legends</h3>
+
+<p>Play 60+ free browser games, climb the global leaderboards, and connect with a worldwide community of players.</p>
+
+<a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/PLAY_NOW-GameHubJS-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Play GameHubJS" /></a>
+<img src="https://img.shields.io/badge/60+-FREE_GAMES-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff&labelColor=ec4899" alt="60+ free games" />
+<img src="https://img.shields.io/badge/COMMUNITY-GLOBAL-17132f?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=8b5cf6" alt="Global player community" />
+
+</div>
+
+**Highlights**
+- 60+ free browser games, with more games planned.
+- Global leaderboards and player community features.
+- Responsive gaming experience with an energetic purple-and-pink visual identity.
+
+</details>
+
 ---
 
 <h2 align="center">🧑‍💻 PandaDev <code>// Developer & Security Engineer</code></h2>
