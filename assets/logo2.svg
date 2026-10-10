@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">GameHubJS.com</title>
+  <desc id="desc">Game controller icon with a purple-to-pink gradient and GameHubJS.com wordmark.</desc>
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#ff6584"/>
+    </linearGradient>
+    <linearGradient id="wordGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b72ff"/>
+      <stop offset="58%" stop-color="#c64ad9"/>
+      <stop offset="78%" stop-color="#ff4f9a"/>
+      <stop offset="100%" stop-color="#ff6584"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="224" height="224" rx="52" fill="url(#brandGradient)"/>
+  <g fill="#ffffff">
+    <!-- Simple gamepad silhouette -->
+    <path d="M65 91
+             C54 91 46 100 42 113
+             L29 151
+             C25 164 32 175 44 175
+             C52 175 59 170 66 161
+             L77 148
+             L163 148
+             L174 161
+             C181 170 188 175 196 175
+             C208 175 215 164 211 151
+             L198 113
+             C194 100 186 91 175 91
+             Z"/>
+  </g>
+  <g fill="#6c63ff">
+    <rect x="65" y="113" width="42" height="12" rx="4"/>
+    <rect x="80" y="98" width="12" height="42" rx="4"/>
+    <circle cx="158" cy="111" r="7"/>
+    <circle cx="179" cy="132" r="7"/>
+  </g>
+
+  <text x="270" y="151" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="800" letter-spacing="-4" fill="url(#wordGradient)">GameHubJS<tspan fill="#ff6584">.com</tspan></text>
+</svg>
