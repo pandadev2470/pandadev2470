@@ -1,15 +1,7 @@
 <!--
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║   ██████╗  █████╗ ███╗   ██╗██████╗  █████╗ ██████╗ ███████╗██╗   ██╗     ║
-  ║   ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║     ║
-  ║   ██████╔╝███████║██╔██╗ ██║██║  ██║███████║██║  ██║█████╗  ██║   ██║     ║
-  ║   ██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██╔══██║██║  ██║██╔══╝  ╚██╗ ██╔╝     ║
-  ║   ██║     ██║  ██║██║ ╚████║██████╔╝██║  ██║██████╔╝███████╗ ╚████╔╝      ║
-  ║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝       ║
-  ║   > SYSTEM BOOT SEQUENCE INITIATED...                                     ║
-  ║   > LOADING PROFILE: panda.dev                                            ║
-  ║   > STATUS: ONLINE                                                        ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
+  PandaDev GitHub Profile README
+  Save this file as README.md in a repository named "pandadev2470"
+  Encoding: UTF-8 (without BOM)
 -->
 
 <div align="center">
@@ -42,12 +34,14 @@ $ cat mission.txt
 $ cat philosophy.txt
 > "Clean code. Scalable systems. Real-world impact."
 
+yaml
+
 # developer.config.yml
 identity:
   name: "PandaDev"
   role: "Full-Stack Developer & Systems Engineer"
-  location: "🌍 Remote / Global"
-  status: "🟢 Available for collaboration"
+  location: "Remote / Global"
+  status: "Available for collaboration"
 
 expertise:
   - Web Application Development
@@ -63,22 +57,25 @@ current_focus:
 
 > ./signature_project --open
 <div align="center">
-🦅 VulnHawk
+VulnHawk
 Find vulnerabilities before attackers do.
 
 A full-featured web vulnerability scanner — built solo, from zero.
 
-https://img.shields.io/badge/%F0%9F%8C%90_Live-vulnhawk.app-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/Status-%F0%9F%9F%A2_Production-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Live-vulnhawk.app-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Status-Production-000000?style=for-the-badge&logoColor=00f7ff
 https://img.shields.io/badge/Version-0.1.1-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/%F0%9F%93%84_Sample_Report-000000?style=for-the-badge&logoColor=00f7ff
-</div>
+https://img.shields.io/badge/Sample-Report-000000?style=for-the-badge&logoColor=00f7ff
+<img src="https://vulnhawk.app/static/img/VulnHawk_Demo_img.png" width="700" alt="VulnHawk live scan visualization" /></div>
+bash
 
 $ cat vulnhawk/README.md
 > A web vulnerability scanner with a professional admin dashboard.
 > Users submit a target URL; the app crawls the site and runs 83 security
 > checks across 10 OWASP Top 10:2025 categories. Findings stream into a
 > live dashboard with filtering, triage, and export in 6 formats.
+
+yaml
 
 # vulnhawk.spec.yml
 product:
@@ -116,96 +113,91 @@ highlights:
   - "Single-process worker + scheduler, zero external queue dependency"
 
 <div align="center">
-[ 🦅 Visit vulnhawk.app ](https://vulnhawk.app/)
+Visit vulnhawk.app
 </div>
-
 > ./tech_stack --list
 <div align="center">
+Languages
 
-⌨️ Languages
 https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f7ff
 https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f7ff
 https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00f7ff
 https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00f7ff
 https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00f7ff
 https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00f7ff
+Frontend
 
-🎨 Frontend
 https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00f7ff
 https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00f7ff
 https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00f7ff
+Backend & Frameworks
 
-⚙️ Backend & Frameworks
 https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00f7ff
 https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00f7ff
 https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=00f7ff
 https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00f7ff
+AI / Machine Learning
 
-🧠 AI / Machine Learning
 https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00f7ff
 https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00f7ff
 https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00f7ff
 https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00f7ff
+DevOps & Cloud
 
-☁️ DevOps & Cloud
 https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00f7ff
 https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00f7ff
 https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00f7ff
 https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00f7ff
+Mobile
 
-📱 Mobile
 https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00f7ff
 https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00f7ff
+IoT & Embedded
 
-🔌 IoT & Embedded
 https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00f7ff
 https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=00f7ff
 https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00f7ff
+Databases
 
-🗄️ Databases
 https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00f7ff
 https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00f7ff
 </div>
-
 > ./featured_projects --display
 <div align="center">
-🚀 Project	📡 Domain	🔗 Link
-🦅 VulnHawk ⭐	Web Vulnerability Scanner (SaaS)	vulnhawk.app
+Project	Domain	Link
+VulnHawk	Web Vulnerability Scanner (SaaS)	vulnhawk.app
 Clarethub	Personal Portfolio	clarethub.com
 PandaDev	Agency Portfolio	thepandadev.com
 Berrieboo	E-Commerce	berrieboo.com
-GameHub JS	Javascript Game Development (Three.js)	GameHubJS.com
-Panda3dPrints	Online 3D Printing Store	Panda3DPrints.com
+GameHub JS	Javascript Game Development (Three.js)	gamehubjs.com
+Panda3dPrints	Online 3D Printing Store	panda3dprints.com
 </div>
-
 > ./github_stats --visualize
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&theme=dark&bg_color=000000&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff&hide_border=false" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&theme=dark&bg_color=000000&title_color=00f7ff&text_color=ffffff&border_color=00f7ff&hide_border=false" /></div><div align="center">
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&theme=dark&bg_color=000000&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&theme=dark&bg_color=000000&title_color=00f7ff&text_color=ffffff&border_color=00f7ff" /></div><div align="center">
 
 https://github-readme-streak-stats-eight.vercel.app/?user=pandadev2470&theme=dark&background=000000&border=00f7ff&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=ffffff
 </div>
 > ./connect --all_channels
 <div align="center">
 
-https://img.shields.io/badge/%F0%9F%93%A7_Email-admin@thepandadev.com-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/%F0%9F%90%99_GitHub-pandadev2470-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Email-admin@thepandadev.com-000000?style=for-the-badge&logo=gmail&logoColor=00f7ff
+https://img.shields.io/badge/GitHub-pandadev2470-000000?style=for-the-badge&logo=github&logoColor=00f7ff
 </div>
-🌐 Website Localization
+Website Localization
 <div align="center">
 
-https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Espa%C3%B1ol-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B1_%D7%A2%D7%91%D7%A8%D7%99%D7%AA-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-000000?style=for-the-badge&logoColor=00f7ff
-https://img.shields.io/badge/%F0%9F%87%B8%F0%9F%87%A6_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-000000?style=for-the-badge&logoColor=00f7ff
-</div>
-
-<div align="center">
+https://img.shields.io/badge/English-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Espanol-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Hebrew-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Hindi-000000?style=for-the-badge&logoColor=00f7ff
+https://img.shields.io/badge/Arabic-000000?style=for-the-badge&logoColor=00f7ff
+</div><div align="center">
 bash
 
 $ echo "Thanks for visiting. Let's build something extraordinary together."
 > Thanks for visiting. Let's build something extraordinary together.
 
 $ exit
-> Connection terminated. See you in the code. 👋
+> Connection terminated. See you in the code.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=footer&fontColor=000000" /></div> ```
