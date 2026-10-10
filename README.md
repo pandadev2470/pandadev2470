@@ -6,7 +6,7 @@
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Find+vulnerabilities+before+attackers+do.;Scan+smarter.+Ship+safer.;Security+that+developers+can+use." alt="Animated VulnHawk tagline" /></a>
 
-**WEB SECURITY SCANNER · BUILT BY PANDADEV**
+**WEB SECURITY AND VULNERABILITY SCANNER**
 
 <a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/LAUNCH-VulnHawk-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Launch VulnHawk" /></a>
 <img src="https://img.shields.io/badge/83-Security%20Checks-07110e?style=for-the-badge&logoColor=00ff9d" alt="83 security checks" />
