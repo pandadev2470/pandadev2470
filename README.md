@@ -49,6 +49,30 @@
 
 </details>
 
+
+<details>
+<summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
+
+<div align="center">
+
+<a href="https://clarethub.com">
+  <img src="assets/logo3.svg" alt="ClaretHub logo" width="340" />
+</a>
+
+<a href="https://clarethub.com">
+  <img src="assets/ClaretHub_Demo.png" alt="ClaretHub personal portfolio website preview" width="100%" />
+</a>
+
+<h3>My Personal Portfolio & Developer Hub</h3>
+
+<p>Explore my work, projects, and software development journey.</p>
+
+<a href="https://clarethub.com"><img src="https://img.shields.io/badge/VISIT-CLARETHUB.COM-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Visit ClaretHub" /></a>
+
+</div>
+
+</details>
+
 ---
 
 <h2 align="center">🧑‍💻 PandaDev <code>// Developer & Security Engineer</code></h2>
