@@ -25,6 +25,9 @@ $ cat mission.txt
 
 $ cat philosophy.txt
 > "Clean code. Scalable systems. Real-world impact."
+
+yaml
+
 # developer.config.yml
 identity:
   name: "PandaDev"
@@ -43,6 +46,7 @@ current_focus:
   - Building scalable SaaS platforms
   - AI-powered business solutions
   - Cross-platform mobile applications
+
 signature_project
 <div align="center">
 VulnHawk
@@ -55,11 +59,14 @@ https://img.shields.io/badge/Status-Production-000000?style=for-the-badge
 https://img.shields.io/badge/Version-0.1.1-000000?style=for-the-badge
 https://img.shields.io/badge/Sample-Report-000000?style=for-the-badge
 <img src="https://vulnhawk.app/static/img/VulnHawk_Demo_img.png" width="700" alt="VulnHawk live scan visualization" /></div>
+bash
 
 $ cat vulnhawk/README.md
 > A web vulnerability scanner with a professional admin dashboard.
 > Users submit a target URL; the app crawls the site and runs 83 security
 > checks across 10 OWASP Top 10:2025 categories.
+
+yaml
 
 # vulnhawk.spec.yml
 product:
@@ -141,7 +148,6 @@ Databases
 https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00f7ff
 https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00f7ff
 </div>
-
 featured_projects
 Project	Domain	Link
 VulnHawk	Web Vulnerability Scanner (SaaS)	vulnhawk.app
@@ -150,7 +156,6 @@ PandaDev	Agency Portfolio	thepandadev.com
 Berrieboo	E-Commerce	berrieboo.com
 GameHub JS	JavaScript Game Development	gamehubjs.com
 Panda3dPrints	Online 3D Printing Store	panda3dprints.com
-
 github_stats
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&theme=dark" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&theme=dark" /></div>
 connect
