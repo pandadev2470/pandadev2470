@@ -25,11 +25,11 @@
 <div align="center">
 
 <a href="https://www.gamehubjs.com/">
-  <img src="./assets/logo2.app" alt="GameHubJS logo" width="340" />
+  <img src="assets/logo2.svg" alt="GameHubJS logo" width="340" />
 </a>
 
 <a href="https://www.gamehubjs.com/">
-  <img src="./assets/GameHubJS_Demo.png" alt="GameHubJS gaming platform dashboard" width="100%" />
+  <img src="assets/GameHubJS_Demo.png" alt="GameHubJS gaming platform dashboard" width="100%" />
 </a>
 
 <h3>Where Players Become Legends</h3>
