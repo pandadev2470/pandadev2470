@@ -1,182 +1,92 @@
 <div align="center">
 
-<img src="./assets/logo_app.svg" alt="VulnHawk.app logo" width="300" />
+<img src="./assets/logo_app.svg" alt="VulnHawk.app logo" width="250" />
 
 # PandaDev
 
-### Full-Stack Developer | Systems Architect | Digital Craftsman
+**Full-Stack Developer · Systems Architect · Digital Craftsman**
 
 Building intelligent software. Engineering secure systems. Creating real-world impact.
 
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Website-thepandadev.com-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Website" /></a>
-<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Email-Contact%20PandaDev-0a0e0d?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
+<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Email-Contact-0a0e0d?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
 <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-pandadev2470-0a0e0d?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" /></a>
 
 </div>
 
 ---
 
-<h2 align="center">`$ whoami` — About Me</h2>
+<h2 align="center">`$ whoami`</h2>
 
 <div align="center">
 
-**Full-Stack Developer · Systems Architect · Digital Craftsman**
+Full-stack development · Backend APIs · Cybersecurity · AI integration · Cloud systems
+
+*"Clean code. Scalable systems. Real-world impact."*
 
 </div>
 
-```bash
-$ whoami
-> pandadev2470
-
-$ cat mission.txt
-> We build custom websites, web applications, and business software.
-> We architect scalable solutions that help businesses grow,
-> automate operations, and succeed in the digital world.
-
-$ cat philosophy.txt
-> "Clean code. Scalable systems. Real-world impact."
-```
-
-I'm the developer behind **PandaDev**, focused on building practical, scalable, and secure digital solutions. My work spans full-stack web development, backend architecture, cybersecurity tooling, AI integration, and modern software engineering.
-
-### Developer Profile
-
-```yaml
-identity:
-  name: "PandaDev"
-  role: "Full-Stack Developer & Systems Engineer"
-  location: "Remote / Global"
-  status: "Available for collaboration"
-
-expertise:
-  - Web Application Development
-  - Backend Architecture & API Engineering
-  - Cybersecurity & Vulnerability Assessment
-  - Machine Learning Integration
-  - IoT & Embedded Systems
-  - Cloud Infrastructure & Deployment
-
-current_focus:
-  - Building scalable SaaS platforms
-  - Developing security-focused applications
-  - Engineering AI-powered business solutions
-  - Creating cross-platform applications
-
-philosophy:
-  - Clean architecture
-  - Security by design
-  - Maintainable code
-  - Continuous learning
-  - Practical innovation
-```
-
 ---
 
-<h2 align="center">🛡️ VulnHawk — Featured Project</h2>
+<h2 align="center">🛡️ VulnHawk</h2>
 
 <div align="center">
 
-<img src="./assets/logo_app.svg" alt="VulnHawk.app logo" width="300" />
+<a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk.app" width="230" /></a>
 
 ### Find vulnerabilities before attackers do.
 
-**A web vulnerability scanner built solo from the ground up.**
+**An independently built web vulnerability scanner.**
 
-<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/Live-vulnhawk.app-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Live application" /></a>
-<img src="https://img.shields.io/badge/Status-Production-0a0e0d?style=for-the-badge&logoColor=00ff9d" alt="Production status" />
-<img src="https://img.shields.io/badge/Version-0.1.1-0a0e0d?style=for-the-badge&logoColor=00ff9d" alt="Version 0.1.1" />
-
-<br />
-<br />
+<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/Live-vulnhawk.app-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Live app" /></a>
+<img src="https://img.shields.io/badge/83-Security%20Checks-0a0e0d?style=for-the-badge&logoColor=00ff9d" alt="83 security checks" />
+<img src="https://img.shields.io/badge/10-Vulnerability%20Categories-0a0e0d?style=for-the-badge&logoColor=00ff9d" alt="10 categories" />
 
 <a href="https://vulnhawk.app">
-  <img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk vulnerability scanner dashboard and live scan visualization" width="100%" />
+  <img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk vulnerability scanner dashboard" width="100%" />
 </a>
 
 </div>
 
-### Project Overview
+Built with **FastAPI, Python, SQLAlchemy, PostgreSQL, Jinja2, Tailwind CSS, Three.js, Docker, and Render**. Includes security-focused protections and report exports in PDF, XLSX, HTML, Markdown, CSV, JSON, and SARIF.
 
-VulnHawk is a web-based vulnerability scanning platform designed to help identify potential security weaknesses before attackers exploit them.
+<details>
+<summary><strong>VulnHawk features and plans</strong></summary>
 
-Users submit a target URL, and the scanner crawls the website and runs security checks across multiple vulnerability categories. Results are presented through a professional dashboard with reporting and export capabilities.
+- 83 checks across 10 vulnerability categories, aligned with OWASP Top 10:2025.
+- Dashboard for scans and findings.
+- Security controls include password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
+- Free: 5 scans/month across 4 categories.
+- Pro: $29/month or $290/year.
 
-### At a Glance
+[Visit VulnHawk →](https://vulnhawk.app)
 
-| Feature | Details |
-|---|---|
-| Security checks | 83 |
-| Vulnerability categories | 10 |
-| Security framework | OWASP Top 10:2025 |
-| Architecture | Asynchronous Python backend |
-| Database | PostgreSQL |
-| Deployment | Docker and Render |
-| Report formats | PDF, XLSX, HTML, Markdown, CSV, JSON, SARIF |
-| Development | Independently built from scratch |
-| Live application | [vulnhawk.app](https://vulnhawk.app) |
-
-### Product Tiers
-
-| Plan | Included |
-|---|---|
-| Free | 5 scans per month, 4 of 10 vulnerability categories |
-| Pro Monthly | $29/month |
-| Pro Annual | $290/year |
-
-*Product details reflect the project specifications supplied for this profile.*
-
-### Technology Behind VulnHawk
-
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-0a0e0d?style=flat-square&logo=python&logoColor=00ff9d)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e0d?style=flat-square&logo=fastapi&logoColor=00ff9d)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0a0e0d?style=flat-square&logo=sqlalchemy&logoColor=00ff9d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e0d?style=flat-square&logo=postgresql&logoColor=00ff9d)
-![Alembic](https://img.shields.io/badge/Alembic-0a0e0d?style=flat-square&logoColor=00ff9d)
-
-**Frontend & Visualization**
-
-![Jinja2](https://img.shields.io/badge/Jinja2-0a0e0d?style=flat-square&logo=jinja&logoColor=00ff9d)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0e0d?style=flat-square&logo=tailwindcss&logoColor=00ff9d)
-![Three.js](https://img.shields.io/badge/Three.js-0a0e0d?style=flat-square&logo=threedotjs&logoColor=00ff9d)
-![WebGL](https://img.shields.io/badge/WebGL-0a0e0d?style=flat-square&logo=webgl&logoColor=00ff9d)
-
-**Infrastructure & Security**
-
-![Docker](https://img.shields.io/badge/Docker-0a0e0d?style=flat-square&logo=docker&logoColor=00ff9d)
-![Render](https://img.shields.io/badge/Render-0a0e0d?style=flat-square&logo=render&logoColor=00ff9d)
-![APScheduler](https://img.shields.io/badge/APScheduler-0a0e0d?style=flat-square&logoColor=00ff9d)
-![bcrypt](https://img.shields.io/badge/bcrypt-0a0e0d?style=flat-square&logoColor=00ff9d)
-
-Security-oriented implementation includes password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC-based audit trails.
-
-<div align="center">
-
-**Explore VulnHawk:** [Launch the application](https://vulnhawk.app)
-
-</div>
+</details>
 
 ---
 
 <h2 align="center">Featured Projects</h2>
 
-| Project | Description | Website |
-|---|---|---|
-| **VulnHawk** | Web vulnerability scanning SaaS | [vulnhawk.app](https://vulnhawk.app) |
-| **ClaretHub** | Personal portfolio and professional web presence | [clarethub.com](https://clarethub.com) |
-| **PandaDev** | Full-stack development and digital solutions agency | [thepandadev.com](https://www.thepandadev.com) |
-| **BerrieBoo** | E-commerce and sweets business | [berrieboo.com](https://berrieboo.com) |
-| **GameHub JS** | Browser-based gaming platform featuring free games | [gamehubjs.com](https://gamehubjs.com) |
-| **Panda3DPrints** | Online 3D printing store | [panda3dprints.com](https://www.panda3dprints.com) |
+<div align="center">
+
+| Project | What it does |
+|---|---|
+| [**VulnHawk**](https://vulnhawk.app) | Web vulnerability scanner |
+| [**ClaretHub**](https://clarethub.com) | Personal portfolio |
+| [**PandaDev**](https://www.thepandadev.com) | Development agency |
+| [**BerrieBoo**](https://berrieboo.com) | E-commerce |
+| [**GameHub JS**](https://gamehubjs.com) | Free browser games |
+| [**Panda3DPrints**](https://www.panda3dprints.com) | 3D printing store |
+
+</div>
 
 ---
 
-<h2 align="center">Technology Stack</h2>
-
-<h3 align="center">Programming Languages</h3>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0a0e0d?style=for-the-badge&logo=python&logoColor=00ff9d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0e0d?style=for-the-badge&logo=javascript&logoColor=00ff9d)
@@ -185,81 +95,30 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 ![C++](https://img.shields.io/badge/C%2B%2B-0a0e0d?style=for-the-badge&logo=cplusplus&logoColor=00ff9d)
 ![SQL](https://img.shields.io/badge/SQL-0a0e0d?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
 
-</div>
+**Frontend · Backend · Data**
 
-<h3 align="center">Frontend Development</h3>
+![React](https://img.shields.io/badge/React-0a0e0d?style=flat-square&logo=react&logoColor=00ff9d)
+![Next.js](https://img.shields.io/badge/Next.js-0a0e0d?style=flat-square&logo=nextdotjs&logoColor=00ff9d)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0e0d?style=flat-square&logo=tailwindcss&logoColor=00ff9d)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0e0d?style=flat-square&logo=fastapi&logoColor=00ff9d)
+![Flask](https://img.shields.io/badge/Flask-0a0e0d?style=flat-square&logo=flask&logoColor=00ff9d)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0a0e0d?style=flat-square&logo=sqlalchemy&logoColor=00ff9d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e0d?style=flat-square&logo=postgresql&logoColor=00ff9d)
+![Redis](https://img.shields.io/badge/Redis-0a0e0d?style=flat-square&logo=redis&logoColor=00ff9d)
 
-<div align="center">
+**AI · Cloud · DevOps · Mobile · Embedded**
 
-![React](https://img.shields.io/badge/React-0a0e0d?style=for-the-badge&logo=react&logoColor=00ff9d)
-![Next.js](https://img.shields.io/badge/Next.js-0a0e0d?style=for-the-badge&logo=nextdotjs&logoColor=00ff9d)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0e0d?style=for-the-badge&logo=tailwindcss&logoColor=00ff9d)
-![HTML5](https://img.shields.io/badge/HTML5-0a0e0d?style=for-the-badge&logo=html5&logoColor=00ff9d)
-![CSS3](https://img.shields.io/badge/CSS3-0a0e0d?style=for-the-badge&logo=css3&logoColor=00ff9d)
-
-</div>
-
-<h3 align="center">Backend & Frameworks</h3>
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e0d?style=for-the-badge&logo=fastapi&logoColor=00ff9d)
-![Flask](https://img.shields.io/badge/Flask-0a0e0d?style=for-the-badge&logo=flask&logoColor=00ff9d)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0a0e0d?style=for-the-badge&logo=sqlalchemy&logoColor=00ff9d)
-![Redis](https://img.shields.io/badge/Redis-0a0e0d?style=for-the-badge&logo=redis&logoColor=00ff9d)
-
-</div>
-
-<h3 align="center">AI & Machine Learning</h3>
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e0d?style=for-the-badge&logo=tensorflow&logoColor=00ff9d)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e0d?style=for-the-badge&logo=pytorch&logoColor=00ff9d)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0e0d?style=for-the-badge&logo=scikitlearn&logoColor=00ff9d)
-![Pandas](https://img.shields.io/badge/Pandas-0a0e0d?style=for-the-badge&logo=pandas&logoColor=00ff9d)
-
-</div>
-
-<h3 align="center">DevOps & Cloud Infrastructure</h3>
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-0a0e0d?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9d)
-![Docker](https://img.shields.io/badge/Docker-0a0e0d?style=for-the-badge&logo=docker&logoColor=00ff9d)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0e0d?style=for-the-badge&logo=kubernetes&logoColor=00ff9d)
-![Render](https://img.shields.io/badge/Render-0a0e0d?style=for-the-badge&logo=render&logoColor=00ff9d)
-![Git](https://img.shields.io/badge/Git-0a0e0d?style=for-the-badge&logo=git&logoColor=00ff9d)
-![GitHub](https://img.shields.io/badge/GitHub-0a0e0d?style=for-the-badge&logo=github&logoColor=00ff9d)
-
-</div>
-
-<h3 align="center">Mobile Development</h3>
-
-<div align="center">
-
-![React Native](https://img.shields.io/badge/React_Native-0a0e0d?style=for-the-badge&logo=react&logoColor=00ff9d)
-![Flutter](https://img.shields.io/badge/Flutter-0a0e0d?style=for-the-badge&logo=flutter&logoColor=00ff9d)
-
-</div>
-
-<h3 align="center">IoT & Embedded Systems</h3>
-
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-0a0e0d?style=for-the-badge&logo=arduino&logoColor=00ff9d)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0a0e0d?style=for-the-badge&logo=raspberrypi&logoColor=00ff9d)
-![ESP32](https://img.shields.io/badge/ESP32-0a0e0d?style=for-the-badge&logo=espressif&logoColor=00ff9d)
-
-</div>
-
-<h3 align="center">Databases & Data Engineering</h3>
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e0d?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
-![Redis](https://img.shields.io/badge/Redis-0a0e0d?style=for-the-badge&logo=redis&logoColor=00ff9d)
-![SQLite](https://img.shields.io/badge/SQLite-0a0e0d?style=for-the-badge&logo=sqlite&logoColor=00ff9d)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e0d?style=flat-square&logo=tensorflow&logoColor=00ff9d)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0e0d?style=flat-square&logo=pytorch&logoColor=00ff9d)
+![AWS](https://img.shields.io/badge/AWS-0a0e0d?style=flat-square&logo=amazonwebservices&logoColor=00ff9d)
+![Docker](https://img.shields.io/badge/Docker-0a0e0d?style=flat-square&logo=docker&logoColor=00ff9d)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0e0d?style=flat-square&logo=kubernetes&logoColor=00ff9d)
+![Render](https://img.shields.io/badge/Render-0a0e0d?style=flat-square&logo=render&logoColor=00ff9d)
+![React Native](https://img.shields.io/badge/React_Native-0a0e0d?style=flat-square&logo=react&logoColor=00ff9d)
+![Flutter](https://img.shields.io/badge/Flutter-0a0e0d?style=flat-square&logo=flutter&logoColor=00ff9d)
+![Arduino](https://img.shields.io/badge/Arduino-0a0e0d?style=flat-square&logo=arduino&logoColor=00ff9d)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0a0e0d?style=flat-square&logo=raspberrypi&logoColor=00ff9d)
+![ESP32](https://img.shields.io/badge/ESP32-0a0e0d?style=flat-square&logo=espressif&logoColor=00ff9d)
 
 </div>
 
@@ -269,36 +128,21 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 
 <div align="center">
 
-<a href="https://github.com/pandadev2470">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=0a0e0d&title_color=00ff9d&icon_color=00ff9d&text_color=f0f4f2&include_all_commits=true" alt="PandaDev GitHub statistics" />
-</a>
-<a href="https://github.com/pandadev2470">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=0a0e0d&title_color=00ff9d&text_color=f0f4f2" alt="PandaDev most-used programming languages" />
-</a>
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadev2470&hide_border=true&background=0a0e0d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=f0f4f2&currStreakNum=f0f4f2&sideNums=f0f4f2&dates=8b949e" alt="PandaDev GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=0a0e0d&title_color=00ff9d&icon_color=00ff9d&text_color=f0f4f2" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=0a0e0d&title_color=00ff9d&text_color=f0f4f2" alt="Top languages" />
 
 </div>
 
 ---
 
-<h2 align="center">Let's Build Something</h2>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
-I'm always interested in connecting with developers, entrepreneurs, and businesses who want to build useful software, solve challenging technical problems, or explore new ideas.
-
-<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Website-Visit%20PandaDev-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit PandaDev" /></a>
-<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-0a0e0d?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Contact PandaDev" /></a>
-<a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0a0e0d?style=for-the-badge&logo=github&logoColor=00ff9d" alt="Follow on GitHub" /></a>
-
-<br />
-<br />
+<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Website-PandaDev-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="PandaDev website" /></a>
+<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0a0e0d?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email PandaDev" /></a>
+<a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-Follow-0a0e0d?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub profile" /></a>
 
 **Clean code. Scalable systems. Real-world impact.**
-
-*Thanks for visiting. Let's build something extraordinary together.*
 
 </div>
