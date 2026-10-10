@@ -1,10 +1,8 @@
 <div align="center">
 
 <a href="https://vulnhawk.app">
-  <img src="./assets/logo_app.svg" alt="VulnHawk.app" width="280" />
+  <img src="./assets/logo_app.svg" alt="VulnHawk.app" width="340" />
 </a>
-
-# 🟢 VulnHawk
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Find+vulnerabilities+before+attackers+do.;Scan+smarter.+Ship+safer.;Security+that+developers+can+use." alt="Animated VulnHawk tagline" /></a>
 
