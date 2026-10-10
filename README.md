@@ -1,11 +1,20 @@
-
+<img width="300" height="50" alt="logo_app" src="https://github.com/user-attachments/assets/bd1a2b65-adba-4787-8fce-f34cd6b9faae" />
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   FILE: app/static/img/logo.svg
-  PURPOSE: VulnHawk full lockup — dark mode. Slightly enlarged wordmark
-           for better visibility in the header at h-8.
+  PURPOSE: VulnHawk full lockup — dark mode. Wordmark reads "VulnHawk.app"
+           to reflect the canonical domain.
+
+  CHANGES (2026-10-10):
+    - Wordmark text: "VulnHawk" → "VulnHawk.app"
+    - viewBox width: 210 → 240 to fit the longer wordmark without clipping
+    - aria-label updated to "VulnHawk.app"
+
+  The mark (shield + eye) is unchanged. The text element's font-family,
+  font-size, font-weight, letter-spacing, and fill are unchanged. Only
+  the string and the horizontal canvas grew.
 -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 40" fill="none" role="img" aria-label="VulnHawk">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" fill="none" role="img" aria-label="VulnHawk.app">
   <!-- Mark -->
   <g transform="translate(0, 4) scale(0.5)">
     <path d="M32 4 L56 14 V32 C56 46 46 56 32 60 C18 56 8 46 8 32 V14 Z"
@@ -16,14 +25,12 @@
     <circle cx="30.5" cy="29" r="1.5" fill="#c5ffe5" opacity="0.9"/>
   </g>
 
-  <!-- Wordmark — larger, tighter -->
+  <!-- Wordmark — reads "VulnHawk.app" -->
   <text x="40" y="28"
         font-family="'JetBrains Mono', ui-monospace, monospace"
         font-size="22" font-weight="700" letter-spacing="-0.8"
-        fill="#f0f4f2">VulnHawk</text>
+        fill="#f0f4f2">VulnHawk.app</text>
 </svg>
-
-<img width="300" height="57" alt="logo" src="https://github.com/user-attachments/assets/2883244e-d7c7-4e79-81a3-9617e1c16852" />
 <img width="1599" height="787" alt="image" src="https://github.com/user-attachments/assets/24b5110e-ce62-42bc-b995-c81dc5a35d57" />
 
 
