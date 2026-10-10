@@ -25,11 +25,7 @@
 <div align="center">
 
 <a href="https://www.gamehubjs.com/">
-  <img src="assets/logo2.svg" alt="GameHubJS logo" width="340" />
-</a>
-
-<a href="https://www.gamehubjs.com/">
-  <img src="assets/GameHubJS_Demo.png" alt="GameHubJS gaming platform dashboard" width="100%" />
+  <img src="assets/logo2.svg" alt="GameHubJS.com logo" width="340" />
 </a>
 
 <h3>Where Players Become Legends</h3>
@@ -39,6 +35,10 @@
 <a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/PLAY_NOW-GameHubJS-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Play GameHubJS" /></a>
 <img src="https://img.shields.io/badge/60+-FREE_GAMES-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff&labelColor=ec4899" alt="60+ free games" />
 <img src="https://img.shields.io/badge/COMMUNITY-GLOBAL-17132f?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=8b5cf6" alt="Global player community" />
+
+<a href="https://www.gamehubjs.com/">
+  <img src="assets/GameHubJS_Demo.png" alt="GameHubJS gaming platform preview" width="100%" />
+</a>
 
 </div>
 
@@ -51,16 +51,43 @@
 
 
 <details>
+<summary><strong>🐼 Panda3DPrints — Custom 3D Printing</strong></summary>
+
+<div align="center">
+
+<a href="https://www.panda3dprints.com/">
+  <img src="assets/panda_log.png" alt="panda3Dprints.com logo" width="340" />
+</a>
+
+<h3>Your Vision, Engineered in 3D.</h3>
+
+<p>Turn your images into precision-printed resin pieces, explore finished models, or browse custom creations from the gallery.</p>
+
+<a href="https://www.panda3dprints.com/"><img src="https://img.shields.io/badge/START_AN_ORDER-panda3Dprints.com-17110a?style=for-the-badge&logo=googlechrome&logoColor=ffbd28&labelColor=9b5b0b" alt="Start an order at Panda3DPrints" /></a>
+<a href="https://www.panda3dprints.com/"><img src="https://img.shields.io/badge/EXPLORE-GALLERY-17110a?style=for-the-badge&logo=images&logoColor=ffbd28&labelColor=9b5b0b" alt="Explore the Panda3DPrints gallery" /></a>
+
+<a href="https://www.panda3dprints.com/">
+  <img src="assets/panda3dprints_Demo.png" alt="Panda3DPrints website preview" width="100%" />
+</a>
+
+</div>
+
+**Highlights**
+- Upload an image or 3D file to start a custom order.
+- Precision resin printing with castable, metallic, clear, and premium material options.
+- Browse featured models and ready-to-ship gallery pieces.
+- Standard custom-order turnaround of 5–7 business days, with tracking via USPS or FedEx.
+
+</details>
+
+
+<details>
 <summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
 
 <div align="center">
 
 <a href="https://clarethub.com">
-  <img src="assets/logo3.svg" alt="ClaretHub logo" width="340" />
-</a>
-
-<a href="https://clarethub.com">
-  <img src="assets/ClaretHub_Demo.png" alt="ClaretHub personal portfolio website preview" width="100%" />
+  <img src="assets/logo3.svg" alt="ClaretHub.com logo" width="340" />
 </a>
 
 <h3>My Personal Portfolio & Developer Hub</h3>
@@ -68,6 +95,10 @@
 <p>Explore my work, projects, and software development journey.</p>
 
 <a href="https://clarethub.com"><img src="https://img.shields.io/badge/VISIT-CLARETHUB.COM-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Visit ClaretHub" /></a>
+
+<a href="https://clarethub.com">
+  <img src="assets/ClaretHub_Demo.png" alt="ClaretHub personal portfolio website preview" width="100%" />
+</a>
 
 </div>
 
