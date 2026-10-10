@@ -56,7 +56,7 @@
 <div align="center">
 
 <a href="https://www.panda3dprints.com/">
-  <img src="assets/panda_log.png" alt="panda3Dprints.com logo" width="340" />
+  <img src="assets/panda_log.svg" alt="panda3Dprints.com logo" width="340" />
 </a>
 
 <h3>Your Vision, Engineered in 3D.</h3>
