@@ -1,14 +1,12 @@
-# PandaDev — Full-Stack Developer & Systems Architect
-
 <div align="center">
 
-<a href="https://www.thepandadev.com/">
-  <img src="https://github.com/user-attachments/assets/bd1a2b65-adba-4787-8fce-f34cd6b9faae" alt="PandaDev and VulnHawk branding" width="300" />
-</a>
+<img src="./assets/logo_app.svg" alt="VulnHawk.app logo" width="300" />
 
-### Building intelligent software. Engineering secure systems. Creating real-world impact.
+# PandaDev
 
-**Full-Stack Developer · Systems Architect · Digital Craftsman**
+### Full-Stack Developer | Systems Architect | Digital Craftsman
+
+Building intelligent software. Engineering secure systems. Creating real-world impact.
 
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Website-thepandadev.com-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Website" /></a>
 <a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Email-Contact%20PandaDev-0a0e0d?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
@@ -18,7 +16,13 @@
 
 ---
 
-## `$ whoami` — About Me
+<h2 align="center">`$ whoami` — About Me</h2>
+
+<div align="center">
+
+**Full-Stack Developer · Systems Architect · Digital Craftsman**
+
+</div>
 
 ```bash
 $ whoami
@@ -35,13 +39,9 @@ $ cat philosophy.txt
 
 I'm the developer behind **PandaDev**, focused on building practical, scalable, and secure digital solutions. My work spans full-stack web development, backend architecture, cybersecurity tooling, AI integration, and modern software engineering.
 
-From developing SaaS platforms to building custom business applications, I enjoy turning complex problems into reliable software.
-
 ### Developer Profile
 
 ```yaml
-# developer.config.yml
-
 identity:
   name: "PandaDev"
   role: "Full-Stack Developer & Systems Engineer"
@@ -72,30 +72,30 @@ philosophy:
 
 ---
 
-# `$ ./featured_project.sh` — VulnHawk
+<h2 align="center">🛡️ VulnHawk — Featured Project</h2>
 
 <div align="center">
 
-<a href="https://vulnhawk.app">
-  <img src="https://vulnhawk.app/static/img/logo.svg" alt="VulnHawk.app logo" width="300" />
-</a>
+<img src="./assets/logo_app.svg" alt="VulnHawk.app logo" width="300" />
 
 ### Find vulnerabilities before attackers do.
 
 **A web vulnerability scanner built solo from the ground up.**
 
 <a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/Live-vulnhawk.app-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Live application" /></a>
-<img src="https://img.shields.io/badge/Status-Production-0a0e0d?style=for-the-badge&logo=shieldsdotio&logoColor=00ff9d" alt="Production status" />
-<img src="https://img.shields.io/badge/Version-0.1.1-0a0e0d?style=for-the-badge&logo=semver&logoColor=00ff9d" alt="Version 0.1.1" />
-<a href="https://vulnhawk.app/static/img/VulnHawk_Demo_img.png"><img src="https://img.shields.io/badge/View-Demo%20Report-0a0e0d?style=for-the-badge&logo=readthedocs&logoColor=00ff9d" alt="Demo report" /></a>
+<img src="https://img.shields.io/badge/Status-Production-0a0e0d?style=for-the-badge&logoColor=00ff9d" alt="Production status" />
+<img src="https://img.shields.io/badge/Version-0.1.1-0a0e0d?style=for-the-badge&logoColor=00ff9d" alt="Version 0.1.1" />
+
+<br />
+<br />
 
 <a href="https://vulnhawk.app">
-  <img src="https://vulnhawk.app/static/img/VulnHawk_Demo_img.png" alt="VulnHawk vulnerability scanner dashboard and live scan visualization" width="800" />
+  <img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk vulnerability scanner dashboard and live scan visualization" width="100%" />
 </a>
 
 </div>
 
-## Project Overview
+### Project Overview
 
 VulnHawk is a web-based vulnerability scanning platform designed to help identify potential security weaknesses before attackers exploit them.
 
@@ -151,11 +151,15 @@ Users submit a target URL, and the scanner crawls the website and runs security 
 
 Security-oriented implementation includes password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC-based audit trails.
 
+<div align="center">
+
 **Explore VulnHawk:** [Launch the application](https://vulnhawk.app)
+
+</div>
 
 ---
 
-## `$ ls ./projects` — Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 | Project | Description | Website |
 |---|---|---|
@@ -168,11 +172,11 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 
 ---
 
-# `$ cat tech_stack.json` — Technology Stack
+<h2 align="center">Technology Stack</h2>
 
-## Programming Languages
+<h3 align="center">Programming Languages</h3>
 
-<div align="left">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0e0d?style=for-the-badge&logo=python&logoColor=00ff9d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0e0d?style=for-the-badge&logo=javascript&logoColor=00ff9d)
@@ -183,7 +187,9 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 
 </div>
 
-## Frontend Development
+<h3 align="center">Frontend Development</h3>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-0a0e0d?style=for-the-badge&logo=react&logoColor=00ff9d)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0e0d?style=for-the-badge&logo=nextdotjs&logoColor=00ff9d)
@@ -191,21 +197,33 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 ![HTML5](https://img.shields.io/badge/HTML5-0a0e0d?style=for-the-badge&logo=html5&logoColor=00ff9d)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0e0d?style=for-the-badge&logo=css3&logoColor=00ff9d)
 
-## Backend & Frameworks
+</div>
+
+<h3 align="center">Backend & Frameworks</h3>
+
+<div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0e0d?style=for-the-badge&logo=fastapi&logoColor=00ff9d)
 ![Flask](https://img.shields.io/badge/Flask-0a0e0d?style=for-the-badge&logo=flask&logoColor=00ff9d)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0a0e0d?style=for-the-badge&logo=sqlalchemy&logoColor=00ff9d)
 ![Redis](https://img.shields.io/badge/Redis-0a0e0d?style=for-the-badge&logo=redis&logoColor=00ff9d)
 
-## AI & Machine Learning
+</div>
+
+<h3 align="center">AI & Machine Learning</h3>
+
+<div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e0d?style=for-the-badge&logo=tensorflow&logoColor=00ff9d)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0e0d?style=for-the-badge&logo=pytorch&logoColor=00ff9d)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0e0d?style=for-the-badge&logo=scikitlearn&logoColor=00ff9d)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0e0d?style=for-the-badge&logo=pandas&logoColor=00ff9d)
 
-## DevOps & Cloud Infrastructure
+</div>
+
+<h3 align="center">DevOps & Cloud Infrastructure</h3>
+
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-0a0e0d?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9d)
 ![Docker](https://img.shields.io/badge/Docker-0a0e0d?style=for-the-badge&logo=docker&logoColor=00ff9d)
@@ -214,26 +232,40 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 ![Git](https://img.shields.io/badge/Git-0a0e0d?style=for-the-badge&logo=git&logoColor=00ff9d)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0e0d?style=for-the-badge&logo=github&logoColor=00ff9d)
 
-## Mobile Development
+</div>
+
+<h3 align="center">Mobile Development</h3>
+
+<div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-0a0e0d?style=for-the-badge&logo=react&logoColor=00ff9d)
 ![Flutter](https://img.shields.io/badge/Flutter-0a0e0d?style=for-the-badge&logo=flutter&logoColor=00ff9d)
 
-## IoT & Embedded Systems
+</div>
+
+<h3 align="center">IoT & Embedded Systems</h3>
+
+<div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-0a0e0d?style=for-the-badge&logo=arduino&logoColor=00ff9d)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0a0e0d?style=for-the-badge&logo=raspberrypi&logoColor=00ff9d)
 ![ESP32](https://img.shields.io/badge/ESP32-0a0e0d?style=for-the-badge&logo=espressif&logoColor=00ff9d)
 
-## Databases & Data Engineering
+</div>
+
+<h3 align="center">Databases & Data Engineering</h3>
+
+<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e0d?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
 ![Redis](https://img.shields.io/badge/Redis-0a0e0d?style=for-the-badge&logo=redis&logoColor=00ff9d)
 ![SQLite](https://img.shields.io/badge/SQLite-0a0e0d?style=for-the-badge&logo=sqlite&logoColor=00ff9d)
 
+</div>
+
 ---
 
-## `$ git log --oneline` — GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
@@ -244,9 +276,7 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=0a0e0d&title_color=00ff9d&text_color=f0f4f2" alt="PandaDev most-used programming languages" />
 </a>
 
-</div>
-
-<div align="center">
+<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadev2470&hide_border=true&background=0a0e0d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=f0f4f2&currStreakNum=f0f4f2&sideNums=f0f4f2&dates=8b949e" alt="PandaDev GitHub contribution streak" />
 
@@ -254,16 +284,17 @@ Security-oriented implementation includes password hashing, signed sessions, CSR
 
 ---
 
-## `$ ./connect.sh` — Let's Build Something
-
-I'm always interested in connecting with developers, entrepreneurs, and businesses who want to build useful software, solve challenging technical problems, or explore new ideas.
+<h2 align="center">Let's Build Something</h2>
 
 <div align="center">
+
+I'm always interested in connecting with developers, entrepreneurs, and businesses who want to build useful software, solve challenging technical problems, or explore new ideas.
 
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Website-Visit%20PandaDev-0a0e0d?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit PandaDev" /></a>
 <a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-0a0e0d?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Contact PandaDev" /></a>
 <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0a0e0d?style=for-the-badge&logo=github&logoColor=00ff9d" alt="Follow on GitHub" /></a>
 
+<br />
 <br />
 
 **Clean code. Scalable systems. Real-world impact.**
