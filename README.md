@@ -28,6 +28,8 @@
 
 Building secure web apps, scalable APIs, and practical software.
 
+*"Clean code. Scalable systems. Real-world impact."*
+
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Portfolio-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio" /></a>
 <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" /></a>
 <a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Contact-07110e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
@@ -39,10 +41,13 @@ Building secure web apps, scalable APIs, and practical software.
 <h2 align="center">VulnHawk <code>// Project Brief</code></h2>
 
 <div align="center">
-
-A web vulnerability scanner built from the ground up, with a live dashboard, categorized findings, and downloadable reports.
-
+  <p align="center">
+    A web vulnerability scanner built from the ground up, featuring a live dashboard,<br />
+    categorized findings, and downloadable security reports.
+  </p>
 </div>
+
+<div align="center">
 
 | Scanner | Details |
 |---|---|
@@ -51,6 +56,8 @@ A web vulnerability scanner built from the ground up, with a live dashboard, cat
 | Stack | Python · FastAPI · SQLAlchemy · PostgreSQL |
 | UI & infrastructure | Jinja2 · Tailwind CSS · Three.js · Docker · Render |
 | Exports | PDF · XLSX · HTML · Markdown · CSV · JSON · SARIF |
+
+</div>
 
 <details>
 <summary><strong>Security features & pricing</strong></summary>
@@ -104,6 +111,7 @@ A web vulnerability scanner built from the ground up, with a live dashboard, cat
 ![Flutter](https://img.shields.io/badge/Flutter-07110e?style=flat-square&logo=flutter&logoColor=00ff9d)
 ![Arduino](https://img.shields.io/badge/Arduino-07110e?style=flat-square&logo=arduino&logoColor=00ff9d)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-07110e?style=flat-square&logo=raspberrypi&logoColor=00ff9d)
+![ESP32](https://img.shields.io/badge/ESP32-07110e?style=flat-square&logo=espressif&logoColor=00ff9d)
 ![C](https://img.shields.io/badge/C-07110e?style=flat-square&logo=c&logoColor=00ff9d)
 ![C++](https://img.shields.io/badge/C%2B%2B-07110e?style=flat-square&logo=cplusplus&logoColor=00ff9d)
 ![SQL](https://img.shields.io/badge/SQL-07110e?style=flat-square&logo=postgresql&logoColor=00ff9d)
