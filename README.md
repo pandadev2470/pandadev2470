@@ -222,9 +222,6 @@
 
 </div>
 
-### 🕹️ Contribution Snake — Play Through the Green
-
-> The snake animation turns your contribution history into a tiny arcade-style game. To display the animation, enable the GitHub Actions workflow described by [Platane/snk](https://github.com/Platane/snk) in this profile repository.
 
 <div align="center">
 
