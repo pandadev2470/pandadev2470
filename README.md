@@ -18,6 +18,44 @@
 
 </div>
 
+<h2 align="center">🛡️ VulnHawk <code>// Project Brief</code></h2>
+
+<div align="center">
+  <h3>A web vulnerability scanner built from the ground up.</h3>
+  <p align="center">
+    Live dashboard · Categorized findings · Downloadable security reports
+  </p>
+</div>
+
+<div align="center">
+
+| Scanner | Details |
+|---|---|
+| Coverage | 83 checks · 10 categories |
+| Framework | OWASP Top 10:2025 |
+| Stack | Python · FastAPI · SQLAlchemy · PostgreSQL |
+| UI & infrastructure | Jinja2 · Tailwind CSS · Three.js · Docker |
+| Exports | PDF · XLSX · HTML · Markdown · CSV · JSON · SARIF |
+
+</div>
+
+<details open>
+<summary><strong>Security features & pricing</strong></summary>
+
+- Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
+- **Free:** 5 scans/month across 4 categories.
+- **Pro:** $29/month or $290/year.
+
+<div align="center">
+
+<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/↗_EXPLORE_VULNHAWK-Launch_Security_Scanner-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d&labelColor=073b2a" alt="Explore VulnHawk security scanner" /></a>
+
+</div>
+
+</details>
+
+---
+
 
 <!-- SECTION VISIBILITY: Keep <details open> to show a section expanded by default. Remove only the word "open" from that section's opening tag to make it collapsed by default. Keep its matching </details> tag. -->
 <details open>
@@ -135,41 +173,6 @@
 
 ---
 
-<h2 align="center">🛡️ VulnHawk <code>// Project Brief</code></h2>
-
-<div align="center">
-  <h3>A web vulnerability scanner built from the ground up.</h3>
-  <p align="center">
-    Live dashboard · Categorized findings · Downloadable security reports
-  </p>
-</div>
-
-<div align="center">
-
-| Scanner | Details |
-|---|---|
-| Coverage | 83 checks · 10 categories |
-| Framework | OWASP Top 10:2025 |
-| Stack | Python · FastAPI · SQLAlchemy · PostgreSQL |
-| UI & infrastructure | Jinja2 · Tailwind CSS · Three.js · Docker |
-| Exports | PDF · XLSX · HTML · Markdown · CSV · JSON · SARIF |
-
-</div>
-
-<details open>
-<summary><strong>Security features & pricing</strong></summary>
-
-- Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
-- **Free:** 5 scans/month across 4 categories.
-- **Pro:** $29/month or $290/year.
-
-<div align="center">
-
-<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/↗_EXPLORE_VULNHAWK-Launch_Security_Scanner-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d&labelColor=073b2a" alt="Explore VulnHawk security scanner" /></a>
-
-</div>
-
-</details>
 
 ---
 
