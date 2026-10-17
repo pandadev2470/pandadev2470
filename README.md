@@ -19,7 +19,8 @@
 </div>
 
 
-<details>
+<!-- Section visibility: keep <details open> to expand by default; remove " open" to make that section collapsed by default. -->
+<details open>
 <summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
 
 <div align="center">
@@ -52,7 +53,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary><strong>🐼 Panda3DPrints — Custom 3D Printing</strong></summary>
 
 <div align="center">
@@ -83,7 +84,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
 
 <div align="center">
@@ -149,7 +150,7 @@
 
 </div>
 
-<details>
+<details open>
 <summary><strong>Security features & pricing</strong></summary>
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
@@ -222,6 +223,9 @@
 
 </div>
 
+### 🕹️ Contribution Snake — Play Through the Green
+
+> The snake animation turns your contribution history into a tiny arcade-style game. To display the animation, enable the GitHub Actions workflow described by [Platane/snk](https://github.com/Platane/snk) in this profile repository.
 
 <div align="center">
 
