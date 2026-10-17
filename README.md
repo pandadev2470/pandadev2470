@@ -115,7 +115,7 @@
 
 ---
 
-<h2 align="center">🧑‍💻 PandaDev <code>// Developer, Analyst & Security Engineer</code></h2>
+<h2 align="center">🧑‍💻 PandaDev <code>// Developer, Analyst, Engineer</code></h2>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07110e,50:073b2a,100:00ff9d&height=3&section=header" width="100%" alt="" />
