@@ -19,7 +19,7 @@
 </div>
 
 
-<!-- Section visibility: keep <details open> to expand by default; remove " open" to make that section collapsed by default. -->
+<!-- SECTION VISIBILITY: Keep <details open> to show a section expanded by default. Remove only the word "open" from that section's opening tag to make it collapsed by default. Keep its matching </details> tag. -->
 <details open>
 <summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
 
@@ -30,6 +30,8 @@
 </a>
 
 <h3>Where Players Become Legends</h3>
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=620&lines=Play.+Compete.+Level+up.;Your+next+favorite+game+is+one+click+away.;Join+the+global+leaderboard." alt="Animated GameHubJS tagline" /></a>
 
 <p>Play 60+ free browser games, climb the global leaderboards, and connect with a worldwide community of players.</p>
 
@@ -64,6 +66,8 @@
 
 <h3>Your Vision, Engineered in 3D.</h3>
 
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=FFBD28&center=true&vCenter=true&width=620&lines=Turn+photos+into+something+real.;Custom+prints.+Personal+meaning.;From+your+idea+to+a+3D+creation." alt="Animated Panda3DPrints tagline" /></a>
+
 <p>Turn your images into precision-printed resin pieces, explore finished models, or browse custom creations from the gallery.</p>
 
 <a href="https://www.panda3dprints.com/"><img src="https://img.shields.io/badge/START_AN_ORDER-panda3Dprints.com-17110a?style=for-the-badge&logo=googlechrome&logoColor=ffbd28&labelColor=9b5b0b" alt="Start an order at Panda3DPrints" /></a>
@@ -94,6 +98,8 @@
 </a>
 
 <h3>My Personal Portfolio & Developer Hub</h3>
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=620&lines=Projects+that+solve+real+problems.;Building.+Learning.+Shipping.;Explore+the+work+behind+the+code." alt="Animated ClaretHub tagline" /></a>
 
 <p>Explore my work, projects, and software development journey.</p>
 
@@ -157,7 +163,11 @@
 - **Free:** 5 scans/month across 4 categories.
 - **Pro:** $29/month or $290/year.
 
-[Open VulnHawk →](https://vulnhawk.app)
+<div align="center">
+
+<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/↗_EXPLORE_VULNHAWK-Launch_Security_Scanner-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d&labelColor=073b2a" alt="Explore VulnHawk security scanner" /></a>
+
+</div>
 
 </details>
 
@@ -167,14 +177,13 @@
 
 <div align="center">
 
-| Project | Focus |
-|---|---|
-| [VulnHawk](https://vulnhawk.app) | Web security scanner |
-| [ClaretHub](https://clarethub.com) | Portfolio |
-| [PandaDev](https://www.thepandadev.com) | Development agency |
-| [BerrieBoo](https://berrieboo.com) | E-commerce |
-| [GameHub JS](https://gamehubjs.com) | Browser games |
-| [Panda3DPrints](https://www.panda3dprints.com) | 3D printing |
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=700&lines=Security.+Software.+Gaming.+Creative+technology.;A+portfolio+of+products+built+to+be+useful.;Explore+the+projects+I+build+and+maintain." alt="Animated feature projects tagline" /></a>
+
+<table>
+  <tr><td align="center"><a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/VulnHawk-Web_Security-07110e?style=for-the-badge&logo=shield&logoColor=00ff9d" alt="VulnHawk — Web security scanner" /></a><br/>Web security scanner</td><td align="center"><a href="https://clarethub.com"><img src="https://img.shields.io/badge/ClaretHub-Portfolio-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="ClaretHub — Portfolio" /></a><br/>Portfolio</td></tr>
+  <tr><td align="center"><a href="https://www.thepandadev.com"><img src="https://img.shields.io/badge/PandaDev-Development_Agency-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="PandaDev — Development agency" /></a><br/>Development agency</td><td align="center"><a href="https://berrieboo.com"><img src="https://img.shields.io/badge/BerrieBoo-E--commerce-17132f?style=for-the-badge&logo=shopify&logoColor=ffffff" alt="BerrieBoo — E-commerce" /></a><br/>E-commerce</td></tr>
+  <tr><td align="center"><a href="https://gamehubjs.com"><img src="https://img.shields.io/badge/GameHubJS-Browser_Games-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff" alt="GameHubJS — Browser games" /></a><br/>Browser games</td><td align="center"><a href="https://www.panda3dprints.com"><img src="https://img.shields.io/badge/Panda3DPrints-3D_Printing-17110a?style=for-the-badge&logo=3d&logoColor=ffbd28" alt="Panda3DPrints — 3D printing" /></a><br/>3D printing</td></tr>
+</table>
 
 </div>
 
@@ -184,23 +193,25 @@
 
 <div align="center">
 
-<p><strong>Languages</strong></p>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=680&lines=Tools+for+building+from+frontend+to+infrastructure.;A+versatile+stack+for+shipping+real+products.;Code.+Connect.+Deploy.+Improve." alt="Animated technology stack tagline" /></a>
+
+<p><strong>▰ &nbsp; Languages</strong></p>
 
 <img src="https://skillicons.dev/icons?i=js,ts,go,py,bash,dart,rust&theme=dark" alt="JavaScript, TypeScript, Go, Python, Bash, Dart, Rust" />
 
-<p><strong>Frontend</strong></p>
+<p><strong>▰ &nbsp; Frontend</strong></p>
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,astro,threejs,figma,vue&theme=dark" alt="HTML, CSS, Tailwind CSS, React, Next.js, Astro, Three.js, Figma, Vue" />
 
-<p><strong>Backend</strong></p>
+<p><strong>▰ &nbsp; Backend</strong></p>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,django,flask,postgres,mongodb,mysql,redis,supabase&theme=dark" alt="Node.js, Express, FastAPI, NestJS, Django, Flask, PostgreSQL, MongoDB, MySQL, Redis, Supabase" />
 
-<p><strong>Mobile, Desktop &amp; Cloud</strong></p>
+<p><strong>▰ &nbsp; Mobile, Desktop &amp; Cloud</strong></p>
 
 <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron,linux,bash,aws,cloudflare,stripe&theme=dark" alt="React Native, Flutter, Android Studio, Electron, Linux, Bash, AWS, Cloudflare, Stripe" />
 
-<p><strong>AI &amp; Others</strong></p>
+<p><strong>▰ &nbsp; AI &amp; Others</strong></p>
 
 <img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,github,vercel,workers,claude,openai&theme=dark" alt="Git, VS Code, Docker, Postman, GitHub, Vercel, Cloudflare Workers, Claude, OpenAI" />
 
@@ -245,13 +256,15 @@
 
 <h2>💚 Build boldly. Ship securely.</h2>
 
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Developer+%E2%80%A2+Analyst+%E2%80%A2+Security+Engineer;Building+useful+products+across+industries.;Clean+code.+Practical+solutions.+Real+impact." alt="Animated closing tagline" /></a>
+
 <p>Developer • Analyst • Security Engineer</p>
 
 <a href="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00a86b&label=PROFILE+VIEWS">
   <img src="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS" alt="Profile views counter" />
 </a>
 
-<p><strong>Explore my work</strong></p>
+<h3>Explore my work</h3>
 
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/PandaDev-Agency-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="PandaDev website" /></a>
 <a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/VulnHawk-Security-07110e?style=for-the-badge&logo=shield&logoColor=00ff9d" alt="VulnHawk website" /></a>
