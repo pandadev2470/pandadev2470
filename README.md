@@ -43,8 +43,6 @@
 <summary><strong>Security features & pricing</strong></summary>
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
-- **Free:** 5 scans/month across 4 categories.
-- **Pro:** $29/month or $290/year.
 
 <div align="center">
 
