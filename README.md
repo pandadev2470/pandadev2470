@@ -19,7 +19,7 @@
 </div>
 
 
-<details open>
+<details>
 <summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
 
 <div align="center">
@@ -52,7 +52,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary><strong>🐼 Panda3DPrints — Custom 3D Printing</strong></summary>
 
 <div align="center">
@@ -83,7 +83,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
 
 <div align="center">
@@ -149,7 +149,7 @@
 
 </div>
 
-<details open>
+<details>
 <summary><strong>Security features & pricing</strong></summary>
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
@@ -183,28 +183,25 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-07110e?style=for-the-badge&logo=python&logoColor=00ff9d)
-![JavaScript](https://img.shields.io/badge/JavaScript-07110e?style=for-the-badge&logo=javascript&logoColor=00ff9d)
-![TypeScript](https://img.shields.io/badge/TypeScript-07110e?style=for-the-badge&logo=typescript&logoColor=00ff9d)
-![React](https://img.shields.io/badge/React-07110e?style=for-the-badge&logo=react&logoColor=00ff9d)
-![Next.js](https://img.shields.io/badge/Next.js-07110e?style=for-the-badge&logo=nextdotjs&logoColor=00ff9d)
-![Tailwind](https://img.shields.io/badge/Tailwind-07110e?style=for-the-badge&logo=tailwindcss&logoColor=00ff9d)
-![FastAPI](https://img.shields.io/badge/FastAPI-07110e?style=for-the-badge&logo=fastapi&logoColor=00ff9d)
-![Flask](https://img.shields.io/badge/Flask-07110e?style=for-the-badge&logo=flask&logoColor=00ff9d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07110e?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
-![Redis](https://img.shields.io/badge/Redis-07110e?style=for-the-badge&logo=redis&logoColor=00ff9d)
-![Docker](https://img.shields.io/badge/Docker-07110e?style=for-the-badge&logo=docker&logoColor=00ff9d)
-![AWS](https://img.shields.io/badge/AWS-07110e?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9d)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-07110e?style=for-the-badge&logo=tensorflow&logoColor=00ff9d)
-![PyTorch](https://img.shields.io/badge/PyTorch-07110e?style=for-the-badge&logo=pytorch&logoColor=00ff9d)
-![React Native](https://img.shields.io/badge/React_Native-07110e?style=for-the-badge&logo=react&logoColor=00ff9d)
-![Flutter](https://img.shields.io/badge/Flutter-07110e?style=for-the-badge&logo=flutter&logoColor=00ff9d)
-![Arduino](https://img.shields.io/badge/Arduino-07110e?style=for-the-badge&logo=arduino&logoColor=00ff9d)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-07110e?style=for-the-badge&logo=raspberrypi&logoColor=00ff9d)
-![ESP32](https://img.shields.io/badge/ESP32-07110e?style=for-the-badge&logo=espressif&logoColor=00ff9d)
-![C](https://img.shields.io/badge/C-07110e?style=for-the-badge&logo=c&logoColor=00ff9d)
-![C++](https://img.shields.io/badge/C%2B%2B-07110e?style=for-the-badge&logo=cplusplus&logoColor=00ff9d)
-![SQL](https://img.shields.io/badge/SQL-07110e?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
+<p><strong>Languages</strong></p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,go,py,bash,dart,rust&theme=dark" alt="JavaScript, TypeScript, Go, Python, Bash, Dart, Rust" />
+
+<p><strong>Frontend</strong></p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,astro,threejs,figma,vue&theme=dark" alt="HTML, CSS, Tailwind CSS, React, Next.js, Astro, Three.js, Figma, Vue" />
+
+<p><strong>Backend</strong></p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,django,flask,postgres,mongodb,mysql,redis,supabase&theme=dark" alt="Node.js, Express, FastAPI, NestJS, Django, Flask, PostgreSQL, MongoDB, MySQL, Redis, Supabase" />
+
+<p><strong>Mobile, Desktop &amp; Cloud</strong></p>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron,linux,bash,aws,cloudflare,stripe&theme=dark" alt="React Native, Flutter, Android Studio, Electron, Linux, Bash, AWS, Cloudflare, Stripe" />
+
+<p><strong>AI &amp; Others</strong></p>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,github,vercel,workers,claude,openai&theme=dark" alt="Git, VS Code, Docker, Postman, GitHub, Vercel, Cloudflare Workers, Claude, OpenAI" />
 
 </div>
 
@@ -215,13 +212,25 @@
 <div align="center">
 
 <a href="https://github.com/pandadev2470">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pandadev2470&theme=dark&hide_border=true&background=07110e&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=e6fff5&dates=9ab8ac" alt="PandaDev GitHub commit streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pandadev2470&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=e6fff5&dates=9ab8ac" alt="PandaDev GitHub commit streak" />
 </a>
 
 <br />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=07110e&title_color=00ff9d&icon_color=00ff9d&text_color=e6fff5&rank_icon=github" alt="PandaDev GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=07110e&title_color=00ff9d&text_color=e6fff5" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=e6fff5&rank_icon=github" alt="PandaDev GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=e6fff5" alt="Most used languages" />
+
+</div>
+
+### 🕹️ Contribution Snake — Play Through the Green
+
+> The snake animation turns your contribution history into a tiny arcade-style game. To display the animation, enable the GitHub Actions workflow described by [Platane/snk](https://github.com/Platane/snk) in this profile repository.
+
+<div align="center">
+
+<a href="https://github.com/Platane/snk" title="Set up the contribution snake animation">
+  <img src="https://raw.githubusercontent.com/pandadev2470/pandadev2470/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake game (requires the contribution-snake workflow to be configured)" width="100%" />
+</a>
 
 </div>
 
@@ -233,10 +242,25 @@
 
 <div align="center">
 
-<h3>💚 Build boldly. Ship securely.</h3>
+<h2>💚 Build boldly. Ship securely.</h2>
 
-<img src="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00a86b&label=PROFILE+VIEWS" alt="Profile views" />
+<p>Developer • Analyst • Security Engineer</p>
 
-[thepandadev.com](https://www.thepandadev.com) · [vulnhawk.app](https://vulnhawk.app) · [GitHub](https://github.com/pandadev2470)
+<a href="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00a86b&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS" alt="Profile views counter" />
+</a>
+
+<p><strong>Explore my work</strong></p>
+
+<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/PandaDev-Agency-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="PandaDev website" /></a>
+<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/VulnHawk-Security-07110e?style=for-the-badge&logo=shield&logoColor=00ff9d" alt="VulnHawk website" /></a>
+<a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/GameHubJS-Games-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff" alt="GameHubJS website" /></a>
+<a href="https://clarethub.com"><img src="https://img.shields.io/badge/ClaretHub-Portfolio-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="ClaretHub website" /></a>
+<a href="https://www.panda3dprints.com/"><img src="https://img.shields.io/badge/Panda3DPrints-3D_Printing-17110a?style=for-the-badge&logo=3d&logoColor=ffbd28" alt="Panda3DPrints website" /></a>
+<a href="https://berrieboo.com"><img src="https://img.shields.io/badge/BerrieBoo-Shop-17132f?style=for-the-badge&logo=shopify&logoColor=ffffff" alt="BerrieBoo website" /></a>
+<a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-Profile-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub profile" /></a>
+<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Contact-Email-07110e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Contact by email" /></a>
+
+<p><sub>Building useful products across security, software, gaming, and 3D printing.</sub></p>
 
 </div>
