@@ -55,7 +55,6 @@
 ---
 
 
-<!-- SECTION VISIBILITY: Keep <details open> to show a section expanded by default. Remove only the word "open" from that section's opening tag to make it collapsed by default. Keep its matching </details> tag. -->
 <details open>
 <summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
 
