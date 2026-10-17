@@ -55,7 +55,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary><strong>🐼 Panda3DPrints — Custom 3D Printing</strong></summary>
 
 <div align="center">
@@ -88,7 +88,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
 
 <div align="center">
@@ -177,13 +177,14 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=700&lines=Security.+Software.+Gaming.+Creative+technology.;A+portfolio+of+products+built+to+be+useful.;Explore+the+projects+I+build+and+maintain." alt="Animated feature projects tagline" /></a>
-
-<table>
-  <tr><td align="center"><a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/VulnHawk-Web_Security-07110e?style=for-the-badge&logo=shield&logoColor=00ff9d" alt="VulnHawk — Web security scanner" /></a><br/>Web security scanner</td><td align="center"><a href="https://clarethub.com"><img src="https://img.shields.io/badge/ClaretHub-Portfolio-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="ClaretHub — Portfolio" /></a><br/>Portfolio</td></tr>
-  <tr><td align="center"><a href="https://www.thepandadev.com"><img src="https://img.shields.io/badge/PandaDev-Development_Agency-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="PandaDev — Development agency" /></a><br/>Development agency</td><td align="center"><a href="https://berrieboo.com"><img src="https://img.shields.io/badge/BerrieBoo-E--commerce-17132f?style=for-the-badge&logo=shopify&logoColor=ffffff" alt="BerrieBoo — E-commerce" /></a><br/>E-commerce</td></tr>
-  <tr><td align="center"><a href="https://gamehubjs.com"><img src="https://img.shields.io/badge/GameHubJS-Browser_Games-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff" alt="GameHubJS — Browser games" /></a><br/>Browser games</td><td align="center"><a href="https://www.panda3dprints.com"><img src="https://img.shields.io/badge/Panda3DPrints-3D_Printing-17110a?style=for-the-badge&logo=3d&logoColor=ffbd28" alt="Panda3DPrints — 3D printing" /></a><br/>3D printing</td></tr>
-</table>
+| Project | Focus |
+|---|---|
+| [VulnHawk](https://vulnhawk.app) | Web security scanner |
+| [ClaretHub](https://clarethub.com) | Portfolio |
+| [PandaDev](https://www.thepandadev.com) | Development agency |
+| [BerrieBoo](https://berrieboo.com) | E-commerce |
+| [GameHub JS](https://gamehubjs.com) | Browser games |
+| [Panda3DPrints](https://www.panda3dprints.com) | 3D printing |
 
 </div>
 
@@ -234,9 +235,6 @@
 
 </div>
 
-### 🕹️ Contribution Snake — Play Through the Green
-
-> The snake animation turns your contribution history into a tiny arcade-style game. To display the animation, enable the GitHub Actions workflow described by [Platane/snk](https://github.com/Platane/snk) in this profile repository.
 
 <div align="center">
 
