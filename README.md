@@ -125,7 +125,7 @@
 
 <h3>Building secure web apps, scalable APIs, and practical software.</h3>
 
-<em>Clean code. Scalable systems. Real-world impact.</em>
+<em>Clean code. Real-world impact.</em>
 
 <a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Portfolio-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio" /></a>
 <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" /></a>
