@@ -43,6 +43,7 @@
 <summary><strong>Security features</strong></summary>
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
+- **Sample report:** [Demo scan report (PDF)](https://vulnhawk.app/static/vulnhawk_scan_24_demo.testfire.net.pdf)
 
 </details>
 
