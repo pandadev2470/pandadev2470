@@ -123,7 +123,7 @@
 
 <div align="center">
 
-<h3>Building secure web apps, scalable APIs, and practical software.</h3>
+<h3>Building secure web apps, scalable systems and practical software.</h3>
 
 <em>Clean code. Real-world impact.</em>
 
