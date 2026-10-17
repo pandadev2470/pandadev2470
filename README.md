@@ -19,7 +19,7 @@
 </div>
 
 
-<details>
+<details open>
 <summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
 
 <div align="center">
@@ -52,7 +52,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary><strong>🐼 Panda3DPrints — Custom 3D Printing</strong></summary>
 
 <div align="center">
@@ -83,7 +83,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
 
 <div align="center">
@@ -149,7 +149,7 @@
 
 </div>
 
-<details>
+<details open>
 <summary><strong>Security features & pricing</strong></summary>
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
