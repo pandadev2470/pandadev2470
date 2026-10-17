@@ -40,7 +40,7 @@
 </div>
 
 <details open>
-<summary><strong>Security features & pricing</strong></summary>
+<summary><strong>Security features</strong></summary>
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
 
