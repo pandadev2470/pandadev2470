@@ -44,12 +44,6 @@
 
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
 
-<div align="center">
-
-<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/↗_EXPLORE_VULNHAWK-Launch_Security_Scanner-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d&labelColor=073b2a" alt="Explore VulnHawk security scanner" /></a>
-
-</div>
-
 </details>
 
 ---
@@ -63,8 +57,6 @@
 <a href="https://www.gamehubjs.com/">
   <img src="assets/logo2.svg" alt="GameHubJS.com logo" width="340" />
 </a>
-
-<h3>Where Players Become Legends</h3>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=620&lines=Play.+Compete.+Level+up.;Your+next+favorite+game+is+one+click+away.;Join+the+global+leaderboard." alt="Animated GameHubJS tagline" /></a>
 
