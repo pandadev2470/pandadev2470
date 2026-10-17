@@ -192,47 +192,59 @@
 
 ### 💻 Languages
 
-| <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology |
-|:---:|---|:---:|---|:---:|---|
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" alt="Python" /> | **Python** | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" alt="JavaScript" /> | **JavaScript** | <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" alt="TypeScript" /> | **TypeScript** |
-| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" alt="C++" /> | **C++** | <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" alt="C#" /> | **C#** | <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="40" alt="Bash" /> | **Bash** |
-| <img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="40" alt="PowerShell" /> | **PowerShell** | <img src="https://skillicons.dev/icons?i=go&theme=dark" width="40" alt="Go" /> | **Go** | <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="40" alt="Rust" /> | **Rust** |
+<div align="center">
 
-### 🧩 Frontend & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,go,rust,bash,powershell&theme=dark" alt="Python, JavaScript, TypeScript, C++, C#, Go, Rust, Bash, PowerShell" />
+</p>
 
-| <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology |
-|:---:|---|:---:|---|:---:|---|
-| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" alt="HTML5" /> | **HTML5** | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" alt="CSS3**" /> | **CSS3** | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" alt="Tailwind CSS" /> | **Tailwind CSS** |
-| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" alt="React" /> | **React** | <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" alt="Next.js" /> | **Next.js** | <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40" alt="Vue.js" /> | **Vue.js** |
-| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" alt="Visual Studio Code" /> | **VS Code** | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" alt="Git" /> | **Git** | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub" /> | **GitHub** |
-| <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="40" alt="GitLab" /> | **GitLab** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" alt="Figma" /> | **Figma** | <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" alt="Postman" /> | **Postman** |
+</div>
+
+### 🎨 Frontend & Development Tools
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,vscode,git,github,gitlab,figma,postman&theme=dark" alt="HTML5, CSS3, Tailwind CSS, React, Next.js, Vue.js, VS Code, Git, GitHub, GitLab, Figma, Postman" />
+</p>
+
+</div>
 
 ### 🗄️ Backend & Databases
 
-| <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology |
-|:---:|---|:---:|---|:---:|---|
-| <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" alt="Node.js" /> | **Node.js** | <img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" alt="Express.js" /> | **Express.js** | <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" alt="FastAPI" /> | **FastAPI** |
-| <img src="https://skillicons.dev/icons?i=django&theme=dark" width="40" alt="Django" /> | **Django** | <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40" alt="Flask" /> | **Flask** | <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="40" alt="GraphQL" /> | **GraphQL** |
-| <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" alt="PostgreSQL" /> | **PostgreSQL** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" alt="MySQL" /> | **MySQL** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" alt="MongoDB" /> | **MongoDB** |
-| <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" alt="Redis" /> | **Redis** | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="40" alt="Microsoft SQL Server" /> | **SQL Server** | <img src="https://img.shields.io/badge/SSMS-0078D4?style=flat&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server Management Studio" /> | **SSMS** |
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,postgres,mysql,mongodb,redis&theme=dark" alt="Node.js, Express.js, FastAPI, Django, Flask, GraphQL, PostgreSQL, MySQL, MongoDB, Redis" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="SQL Server Management Studio" />
+</p>
+
+</div>
 
 ### ☁️ Cloud, Mobile & Infrastructure
 
-| <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology |
-|:---:|---|:---:|---|:---:|---|
-| <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" alt="AWS" /> | **AWS** | <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="40" alt="Azure" /> | **Azure** | <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="40" alt="Cloudflare**" /> | **Cloudflare** |
-| <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40" alt="Android" /> | **Android** | <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="40" alt="Flutter" /> | **Flutter** | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" alt="Linux" /> | **Linux** |
-| <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" alt="Docker" /> | **Docker** | <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40" alt="Kubernetes" /> | **Kubernetes** | <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="40" alt="Raspberry Pi" /> | **Raspberry Pi** |
-| <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="40" alt="Arduino" /> | **Arduino** | <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="40" alt="ESP32" /> | **ESP32** | <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="40" alt="Jenkins" /> | **Jenkins** |
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,androidstudio,flutter,linux,docker,kubernetes,raspberrypi,arduino,jenkins&theme=dark" alt="AWS, Azure, Cloudflare, Android, Flutter, Linux, Docker, Kubernetes, Raspberry Pi, Arduino, Jenkins" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="48" alt="ESP32" />
+</p>
+
+</div>
 
 ### 🤖 AI, Data & Other Tools
 
-| <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology | <div align="center">Icon</div> | Technology |
-|:---:|---|:---:|---|:---:|---|
-| <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="40" alt="OpenAI" /> | **OpenAI** | <img src="https://skillicons.dev/icons?i=claude&theme=dark" width="40" alt="Claude AI" /> | **Claude AI** | <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" alt="TensorFlow" /> | **TensorFlow** |
-| <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40" alt="PyTorch" /> | **PyTorch** | <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40" alt="OpenCV" /> | **OpenCV** | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="40" alt="Scikit-learn" /> | **Scikit-learn** |
-| <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="40" alt="Pandas" /> | **Pandas** | <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="40" alt="NumPy" /> | **NumPy** | <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="40" alt="Jupyter" /> | **Jupyter** |
+<div align="center">
 
+<p>
+  <img src="https://skillicons.dev/icons?i=openai,claude,tensorflow,pytorch,opencv,sklearn,pandas,numpy,jupyter&theme=dark" alt="OpenAI, Claude AI, TensorFlow, PyTorch, OpenCV, Scikit-learn, Pandas, NumPy, Jupyter" />
+</p>
+
+</div>
 
 ---
 
