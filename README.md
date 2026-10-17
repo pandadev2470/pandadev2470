@@ -247,32 +247,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9d,50:073b2a,100:07110e&height=3&section=footer" width="100%" alt="" />
 </div>
-
----
-
-<div align="center">
-
-<h2>💚 Build boldly. Ship securely.</h2>
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Developer+%E2%80%A2+Analyst+%E2%80%A2+Security+Engineer;Building+useful+products+across+industries.;Clean+code.+Practical+solutions.+Real+impact." alt="Animated closing tagline" /></a>
-
-<p>Developer • Analyst • Security Engineer</p>
-
-<a href="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00a86b&label=PROFILE+VIEWS">
-  <img src="https://komarev.com/ghpvc/?username=pandadev2470&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS" alt="Profile views counter" />
-</a>
-
-<h3>Explore my work</h3>
-
-<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/PandaDev-Agency-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="PandaDev website" /></a>
-<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/VulnHawk-Security-07110e?style=for-the-badge&logo=shield&logoColor=00ff9d" alt="VulnHawk website" /></a>
-<a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/GameHubJS-Games-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff" alt="GameHubJS website" /></a>
-<a href="https://clarethub.com"><img src="https://img.shields.io/badge/ClaretHub-Portfolio-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="ClaretHub website" /></a>
-<a href="https://www.panda3dprints.com/"><img src="https://img.shields.io/badge/Panda3DPrints-3D_Printing-17110a?style=for-the-badge&logo=3d&logoColor=ffbd28" alt="Panda3DPrints website" /></a>
-<a href="https://berrieboo.com"><img src="https://img.shields.io/badge/BerrieBoo-Shop-17132f?style=for-the-badge&logo=shopify&logoColor=ffffff" alt="BerrieBoo website" /></a>
-<a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-Profile-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub profile" /></a>
-<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Contact-Email-07110e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Contact by email" /></a>
-
-<p><sub>Building useful products across security, software, gaming, and 3D printing.</sub></p>
-
-</div>
