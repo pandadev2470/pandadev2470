@@ -1,5 +1,42 @@
 <div align="center">
 
+<a href="https://www.thepandadev.com/">
+  <img src="assets/logo4.png" alt="ThePandaDev development agency logo" width="340" />
+</a>
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated ThePandaDev tagline" /></a>
+
+**CUSTOM WEB APPLICATIONS & SOFTWARE DEVELOPMENT**
+
+<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/VISIT-ThePandaDev-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit ThePandaDev" /></a>
+<img src="https://img.shields.io/badge/CUSTOM-Software_Solutions-07110e?style=for-the-badge&logoColor=00ff9d" alt="Custom software solutions" />
+<img src="https://img.shields.io/badge/WEB-Development-07110e?style=for-the-badge&logoColor=00ff9d" alt="Web development" />
+
+<a href="https://www.thepandadev.com/">
+  <img src="assets/pandadev.png" alt="ThePandaDev development agency website preview" width="100%" />
+</a>
+
+</div>
+
+<h2 align="center">🐼 ThePandaDev <code>// Development Agency</code></h2>
+
+<div align="center">
+  <h3>Custom websites, web applications and software solutions.</h3>
+  <p>Helping individuals and businesses turn ideas into practical, modern digital products.</p>
+</div>
+
+**Highlights**
+- Custom websites and web applications tailored to individual and business needs.
+- End-to-end development, from planning and user interface design to deployment.
+- Business software solutions focused on usability, maintainability and growth.
+- Responsive, accessible experiences for desktop, tablet and mobile.
+- Multilingual website and application support.
+- [Explore services and get in touch](https://www.thepandadev.com/).
+
+---
+
+<div align="center">
+
 <a href="https://vulnhawk.app">
   <img src="./assets/logo_app.svg" alt="VulnHawk.app" width="340" />
 </a>
@@ -39,13 +76,13 @@
 
 </div>
 
-<details open>
-<summary><strong>Security features</strong></summary>
-
+**Highlights**
+- 83 web security checks across 10 categories, aligned with OWASP Top 10:2025.
+- Live scanning dashboard with categorized findings to help prioritize remediation.
+- Downloadable security reports in PDF, XLSX, HTML, Markdown, CSV, JSON and SARIF formats.
+- Python and FastAPI backend with PostgreSQL and Docker support.
 - Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
 - **Sample report:** [Demo scan report (PDF)](https://vulnhawk.app/static/vulnhawk_scan_24_demo.testfire.net.pdf)
-
-</details>
 
 ---
 
@@ -83,8 +120,7 @@
 </details>
 
 
-<details>
-<summary><strong>🐼 Panda3DPrints — Custom 3D Printing</strong></summary>
+<h2 align="center">🐼 Panda3DPrints — Custom 3D Printing</h2>
 
 <div align="center">
 
@@ -113,11 +149,10 @@
 - Browse featured models and ready-to-ship gallery pieces.
 - Standard custom-order turnaround of 5–7 business days, with tracking via USPS or FedEx.
 
-</details>
 
 
-<details>
-<summary><strong>🌐 ClaretHub — Personal Portfolio</strong></summary>
+
+<h2 align="center">🌐 ClaretHub — Personal Portfolio</h2>
 
 <div align="center">
 
@@ -139,9 +174,13 @@
 
 </div>
 
-</details>
+
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pandadev2470&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="PandaDev GitHub profile views counter" />
+</div>
 
 <h2 align="center">🧑‍💻 PandaDev <code>// Developer, Analyst, Engineer</code></h2>
 
