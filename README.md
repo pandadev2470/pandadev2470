@@ -20,11 +20,6 @@
 
 <h2 align="center">🐼 ThePandaDev <code>// Development Agency</code></h2>
 
-<div align="center">
-  <h3>Custom websites, web applications and software solutions.</h3>
-  <p>Helping individuals and businesses turn ideas into practical, modern digital products.</p>
-</div>
-
 **Highlights**
 - Custom websites and web applications tailored to individual and business needs.
 - End-to-end development, from planning and user interface design to deployment.
