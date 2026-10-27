@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.thepandadev.com/">
+<a href="https://www.pandadevhub.com/">
   <img src="assets/logo4.png" alt="ThePandaDev development agency logo" width="340" />
 </a>
 
@@ -8,11 +8,11 @@
 
 **CUSTOM WEB APPLICATIONS & SOFTWARE DEVELOPMENT**
 
-<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/VISIT-ThePandaDev-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit ThePandaDev" /></a>
+<a href="https://www.pandadevhub.com/"><img src="https://img.shields.io/badge/VISIT-ThePandaDev-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit ThePandaDev" /></a>
 <img src="https://img.shields.io/badge/CUSTOM-Software_Solutions-07110e?style=for-the-badge&logoColor=00ff9d" alt="Custom software solutions" />
 <img src="https://img.shields.io/badge/WEB-Development-07110e?style=for-the-badge&logoColor=00ff9d" alt="Web development" />
 
-<a href="https://www.thepandadev.com/">
+<a href="https://www.pandadevhub.com/">
   <img src="assets/pandadev.png" alt="ThePandaDev development agency website preview" width="100%" />
 </a>
 
@@ -26,7 +26,7 @@
 - Business software solutions focused on usability, maintainability and growth.
 - Responsive, accessible experiences for desktop, tablet and mobile.
 - Multilingual website and application support.
-- [Explore services and get in touch](https://www.thepandadev.com/).
+- [Explore services and get in touch](https://www.pandadevhub.com/).
 
 ---
 
@@ -133,9 +133,9 @@
 
 <em>Clean code. Real-world impact.</em>
 
-<a href="https://www.thepandadev.com/"><img src="https://img.shields.io/badge/Portfolio-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio" /></a>
+<a href="https://www.pandadevhub.com/"><img src="https://img.shields.io/badge/Portfolio-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio" /></a>
 <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" /></a>
-<a href="mailto:admin@thepandadev.com"><img src="https://img.shields.io/badge/Contact-07110e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
+<a href="mailto:admin@pandadevhub.com"><img src="https://img.shields.io/badge/Contact-07110e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
 
 </div>
 
@@ -152,7 +152,7 @@
 |---|---|
 | [VulnHawk](https://vulnhawk.app) | Web security scanner |
 | [ClaretHub](https://clarethub.com) | Portfolio |
-| [PandaDev](https://www.thepandadev.com) | Development agency |
+| [PandaDev](https://www.pandadevhub.com) | Development agency |
 | [BerrieBoo](https://berrieboo.com) | E-commerce |
 | [GameHub JS](https://gamehubjs.com) | Browser games |
 | [Panda3DPrints](https://www.panda3dprints.com) | 3D printing |
