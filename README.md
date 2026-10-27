@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.pandadevhub.com/">
-  <img src="assets/logo4.png" alt="ThePandaDev development agency logo" width="340" />
+  <img src="assets/logo4.png" alt="PandaDev development agency logo" width="340" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated ThePandaDev tagline" /></a>
