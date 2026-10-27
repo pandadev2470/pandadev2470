@@ -4,21 +4,21 @@
   <img src="assets/logo4.png" alt="PandaDev development agency logo" width="340" />
 </a>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated ThePandaDev tagline" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated PandaDev tagline" /></a>
 
 **CUSTOM WEB APPLICATIONS & SOFTWARE DEVELOPMENT**
 
-<a href="https://www.pandadevhub.com/"><img src="https://img.shields.io/badge/VISIT-ThePandaDev-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit ThePandaDev" /></a>
+<a href="https://www.pandadevhub.com/"><img src="https://img.shields.io/badge/VISIT-PandaDev-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Visit PandaDev" /></a>
 <img src="https://img.shields.io/badge/CUSTOM-Software_Solutions-07110e?style=for-the-badge&logoColor=00ff9d" alt="Custom software solutions" />
 <img src="https://img.shields.io/badge/WEB-Development-07110e?style=for-the-badge&logoColor=00ff9d" alt="Web development" />
 
 <a href="https://www.pandadevhub.com/">
-  <img src="assets/pandadev.png" alt="ThePandaDev development agency website preview" width="100%" />
+  <img src="assets/pandadev.png" alt="PandaDev development agency website preview" width="100%" />
 </a>
 
 </div>
 
-<h2 align="center">🐼 ThePandaDev <code>// Development Agency</code></h2>
+<h2 align="center">PandaDev <code>// Development Agency</code></h2>
 
 **Highlights**
 - Custom websites and web applications tailored to individual and business needs.
