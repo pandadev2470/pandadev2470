@@ -32,78 +32,33 @@
 
 <h2 align="center">Featured Applications</h2>
 
-<!-- Fixed 50/50 columns; top-aligned content and equal-height image slots -->
-<table width="100%">
+<!-- GitHub-safe compact comparison: no nested tables or fixed pixel widths. -->
+<table>
+<thead><tr><th width="50%" align="center">🛡️ VulnHawk</th><th width="50%" align="center">🎮 GameHubJS</th></tr></thead>
+<tbody>
 <tr>
-<td width="50%" valign="top" align="center">
-<a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" height="54" /></a>
-<br /><br />
-<a href="https://vulnhawk.app"><img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk security dashboard" width="100%" /></a>
-<br />
-<strong>VulnHawk</strong>
-<br />
-<sub>Web security scanning, repository audits and continuous monitoring.</sub>
-<br /><br />
-<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/LAUNCH-VulnHawk-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Open VulnHawk" /></a>
-<br /><br />
-<strong>Highlights</strong>
-<br />
-<div align="left"><ul>
-<li>83 security checks across OWASP Top 10:2025 categories</li>
-<li>Public GitHub repository audits and prioritized recommendations</li>
-<li>Scan comparisons, compliance mapping and branded PDF reports</li>
-<li>7 exports: PDF, XLSX, HTML, Markdown, CSV, JSON, SARIF</li>
-<li>Scheduled scans, SSL and uptime monitoring with notifications</li>
-<li>MFA, optional GitHub sign-in, PWA and admin worker monitoring</li>
-</ul></div>
-<strong>Tech Stack</strong>
-<br />
-<table width="100%"><tr><th align="left">Layer</th><th align="left">Technology</th></tr>
-<tr><td>Backend</td><td>Python 3.11 · FastAPI · uv</td></tr>
-<tr><td>Data</td><td>SQLAlchemy async · SQLite · PostgreSQL · Alembic</td></tr>
-<tr><td>Frontend</td><td>Jinja2 · Tailwind CSS · Three.js</td></tr>
-<tr><td>Jobs / HTTP</td><td>asyncio · APScheduler · httpx</td></tr>
-<tr><td>Reports</td><td>WeasyPrint · XLSX · SARIF</td></tr>
-<tr><td>Services</td><td>Stripe · Resend · Web Push</td></tr>
-<tr><td>Ops / Tests</td><td>Render · structlog · pytest</td></tr>
-</table>
-<br />
-<a href="https://vulnhawk.app/static/vulnhawk_scan_24_demo.testfire.net.pdf">Sample security report (PDF)</a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://www.gamehubjs.com/"><img src="assets/logo2.svg" alt="GameHubJS logo" height="54" /></a>
-<br /><br />
-<a href="https://www.gamehubjs.com/"><img src="assets/GameHubJS_Demo.png" alt="GameHubJS games dashboard" width="100%" /></a>
-<br />
-<strong>GameHubJS</strong>
-<br />
-<sub>60+ free browser games with leaderboards and community features.</sub>
-<br /><br />
-<a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/PLAY_NOW-GameHubJS-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Open GameHubJS" /></a>
-<br /><br />
-<strong>Highlights</strong>
-<br />
-<div align="left"><ul>
-<li>60+ free browser games playable without downloads</li>
-<li>Accounts, Google OAuth and optional authenticator 2FA</li>
-<li>Leaderboards, achievements, challenges and tournaments</li>
-<li>Chat rooms, favorites, ratings and player statistics</li>
-<li>Admin moderation, analytics and donation monitoring</li>
-<li>Six languages, RTL support and installable PWA</li>
-</ul></div>
-<strong>Tech Stack</strong>
-<br />
-<table width="100%"><tr><th align="left">Layer</th><th align="left">Technology</th></tr>
-<tr><td>Backend</td><td>Python · Flask · Jinja2</td></tr>
-<tr><td>Data</td><td>SQLAlchemy · Alembic · SQLite · PostgreSQL</td></tr>
-<tr><td>Auth</td><td>Flask-Login · Flask-WTF · Authlib</td></tr>
-<tr><td>Realtime</td><td>Flask-SocketIO · eventlet · Redis</td></tr>
-<tr><td>Frontend</td><td>HTML · CSS · JS · Canvas · Three.js · Cannon.js</td></tr>
-<tr><td>Services</td><td>Stripe donations · Resend</td></tr>
-<tr><td>Ops / i18n</td><td>Gunicorn · Flask-Babel · PWA</td></tr>
-</table>
-</td>
+<td align="center" valign="top"><a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" width="160"></a></td>
+<td align="center" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/logo2.svg" alt="GameHubJS logo" width="160"></a></td>
 </tr>
+<tr>
+<td align="center" valign="top"><a href="https://vulnhawk.app"><img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk security dashboard" width="100%"></a></td>
+<td align="center" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/GameHubJS_Demo.png" alt="GameHubJS games dashboard" width="100%"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top"><strong>Web security scanning, repository audits &amp; monitoring</strong><br><a href="https://vulnhawk.app">Launch VulnHawk ↗</a></td>
+<td align="center" valign="top"><strong>60+ free browser games &amp; community features</strong><br><a href="https://www.gamehubjs.com/">Play GameHubJS ↗</a></td>
+</tr>
+<tr><th align="center">Highlights</th><th align="center">Highlights</th></tr>
+<tr>
+<td valign="top">• 83 security checks; OWASP Top 10:2025<br>• Public GitHub repository audits<br>• Scan diffing &amp; compliance mapping<br>• Seven export formats<br>• Scheduled scans, SSL &amp; uptime alerts<br>• MFA, PWA &amp; worker monitoring</td>
+<td valign="top">• 60+ free browser games<br>• Accounts, Google OAuth &amp; 2FA<br>• Leaderboards &amp; achievements<br>• Chat, favorites &amp; tournaments<br>• Admin tools &amp; donation monitoring<br>• Six languages, RTL &amp; PWA</td>
+</tr>
+<tr><th align="center">Tech Stack</th><th align="center">Tech Stack</th></tr>
+<tr>
+<td valign="top"><strong>Backend:</strong> Python, FastAPI, uv<br><strong>Data:</strong> SQLAlchemy, PostgreSQL, SQLite, Alembic<br><strong>UI:</strong> Jinja2, Tailwind, Three.js<br><strong>Jobs:</strong> asyncio, APScheduler, httpx<br><strong>Reports:</strong> WeasyPrint, XLSX, SARIF<br><strong>Services:</strong> Stripe, Resend, Web Push<br><strong>Ops:</strong> Render, structlog, pytest</td>
+<td valign="top"><strong>Backend:</strong> Python, Flask, Jinja2<br><strong>Data:</strong> SQLAlchemy, PostgreSQL, SQLite, Alembic<br><strong>Auth:</strong> Flask-Login, Authlib, Flask-WTF<br><strong>Realtime:</strong> SocketIO, eventlet, Redis<br><strong>UI:</strong> HTML, CSS, JS, Canvas, Three.js<br><strong>Services:</strong> Stripe, Resend<br><strong>Ops:</strong> Gunicorn, Flask-Babel, PWA</td>
+</tr>
+</tbody>
 </table>
 
 ---
