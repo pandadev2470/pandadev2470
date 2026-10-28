@@ -30,117 +30,81 @@
 
 ---
 
-<div align="center">
+<h2 align="center">Featured Applications</h2>
 
-<a href="https://vulnhawk.app">
-  <img src="./assets/logo_app.svg" alt="VulnHawk.app" width="340" />
-</a>
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Find+vulnerabilities+before+attackers+do.;Scan+smarter.+Ship+safer.;Security+that+developers+can+use." alt="Animated VulnHawk tagline" /></a>
-
-**WEB SECURITY AND VULNERABILITY SCANNER**
-
-<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/LAUNCH-VulnHawk-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Launch VulnHawk" /></a>
-<img src="https://img.shields.io/badge/83-Security%20Checks-07110e?style=for-the-badge&logoColor=00ff9d" alt="83 security checks" />
-<img src="https://img.shields.io/badge/OWASP-Top%2010%3A2025-07110e?style=for-the-badge&logoColor=00ff9d" alt="OWASP Top 10 2025" />
-
-<a href="https://vulnhawk.app">
-  <img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk live vulnerability scanning dashboard" width="100%" />
-</a>
-
-</div>
-
-<h2 align="center">🛡️ VulnHawk <code>// Project Brief</code></h2>
-
-<div align="center">
-  <h3>A web vulnerability scanner built from the ground up.</h3>
-  <p align="center">
-    Live dashboard · Categorized findings · Downloadable security reports
-  </p>
-</div>
-
-<div align="center">
-
-| Scanner | Details |
-|---|---|
-| Coverage | 83 checks · 10 categories |
-| Framework | OWASP Top 10:2025 |
-| Stack | Python · FastAPI · SQLAlchemy · PostgreSQL |
-| UI & infrastructure | Jinja2 · Tailwind CSS · Three.js · Docker |
-| Exports | PDF · XLSX · HTML · Markdown · CSV · JSON · SARIF |
-
-</div>
-
-**Highlights**
-- 83 web security checks across 10 categories, aligned with OWASP Top 10:2025.
-- Live scanning dashboard with categorized findings to help prioritize remediation.
-- Downloadable security reports in PDF, XLSX, HTML, Markdown, CSV, JSON and SARIF formats.
-- Python and FastAPI backend with PostgreSQL and Docker support.
-- Password hashing, signed sessions, CSRF protections, SSRF defenses, and HMAC audit trails.
-- **Sample report:** [Demo scan report (PDF)](https://vulnhawk.app/static/vulnhawk_scan_24_demo.testfire.net.pdf)
-
----
-
-
-<details open>
-<summary><strong>🎮 GameHubJS — 60+ Free Browser Games</strong></summary>
-
-<div align="center">
-
-<a href="https://www.gamehubjs.com/">
-  <img src="assets/logo2.svg" alt="GameHubJS.com logo" width="340" />
-</a>
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=620&lines=Play.+Compete.+Level+up.;Your+next+favorite+game+is+one+click+away.;Join+the+global+leaderboard." alt="Animated GameHubJS tagline" /></a>
-
-<p>Play 60+ free browser games, climb the global leaderboards, and connect with a worldwide community of players.</p>
-
-<a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/PLAY_NOW-GameHubJS-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Play GameHubJS" /></a>
-<img src="https://img.shields.io/badge/60+-FREE_GAMES-17132f?style=for-the-badge&logo=gamepad&logoColor=ffffff&labelColor=ec4899" alt="60+ free games" />
-<img src="https://img.shields.io/badge/COMMUNITY-GLOBAL-17132f?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=8b5cf6" alt="Global player community" />
-
-<a href="https://www.gamehubjs.com/">
-  <img src="assets/GameHubJS_Demo.png" alt="GameHubJS gaming platform preview" width="100%" />
-</a>
-
-</div>
-
-**Highlights**
-- 60+ free browser games, with more games planned.
-- Global leaderboards and player community features.
-- Play instantly — no plugins or downloads.
-- Full Responsive design - Works on desktop, tablet, and mobile.
-- Always free — no ads or in-game purchases.
-
-</details>
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pandadev2470&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="PandaDev GitHub profile views counter" />
-</div>
-
-<h2 align="center">🧑‍💻 PandaDev <code>// Developer, Analyst, Engineer</code></h2>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07110e,50:073b2a,100:00ff9d&height=3&section=header" width="100%" alt="" />
-</div>
-
-<div align="center">
-
-<h3>Building secure web apps, scalable systems and practical software.</h3>
-
-<em>Clean code. Real-world impact.</em>
-
-<a href="https://www.pandadevhub.com/"><img src="https://img.shields.io/badge/Portfolio-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio" /></a>
-<a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-07110e?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub" /></a>
-<a href="mailto:admin@pandadevhub.com"><img src="https://img.shields.io/badge/Contact-07110e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" /></a>
-
-</div>
-
----
-
+<!-- Fixed 50/50 columns; top-aligned content and equal-height image slots -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" height="54" /></a>
+<br /><br />
+<a href="https://vulnhawk.app"><img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk security dashboard" width="100%" /></a>
+<br />
+<strong>VulnHawk</strong>
+<br />
+<sub>Web security scanning, repository audits and continuous monitoring.</sub>
+<br /><br />
+<a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/LAUNCH-VulnHawk-07110e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Open VulnHawk" /></a>
+<br /><br />
+<strong>Highlights</strong>
+<br />
+<div align="left"><ul>
+<li>83 security checks across OWASP Top 10:2025 categories</li>
+<li>Public GitHub repository audits and prioritized recommendations</li>
+<li>Scan comparisons, compliance mapping and branded PDF reports</li>
+<li>7 exports: PDF, XLSX, HTML, Markdown, CSV, JSON, SARIF</li>
+<li>Scheduled scans, SSL and uptime monitoring with notifications</li>
+<li>MFA, optional GitHub sign-in, PWA and admin worker monitoring</li>
+</ul></div>
+<strong>Tech Stack</strong>
+<br />
+<table width="100%"><tr><th align="left">Layer</th><th align="left">Technology</th></tr>
+<tr><td>Backend</td><td>Python 3.11 · FastAPI · uv</td></tr>
+<tr><td>Data</td><td>SQLAlchemy async · SQLite · PostgreSQL · Alembic</td></tr>
+<tr><td>Frontend</td><td>Jinja2 · Tailwind CSS · Three.js</td></tr>
+<tr><td>Jobs / HTTP</td><td>asyncio · APScheduler · httpx</td></tr>
+<tr><td>Reports</td><td>WeasyPrint · XLSX · SARIF</td></tr>
+<tr><td>Services</td><td>Stripe · Resend · Web Push</td></tr>
+<tr><td>Ops / Tests</td><td>Render · structlog · pytest</td></tr>
+</table>
+<br />
+<a href="https://vulnhawk.app/static/vulnhawk_scan_24_demo.testfire.net.pdf">Sample security report (PDF)</a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://www.gamehubjs.com/"><img src="assets/logo2.svg" alt="GameHubJS logo" height="54" /></a>
+<br /><br />
+<a href="https://www.gamehubjs.com/"><img src="assets/GameHubJS_Demo.png" alt="GameHubJS games dashboard" width="100%" /></a>
+<br />
+<strong>GameHubJS</strong>
+<br />
+<sub>60+ free browser games with leaderboards and community features.</sub>
+<br /><br />
+<a href="https://www.gamehubjs.com/"><img src="https://img.shields.io/badge/PLAY_NOW-GameHubJS-17132f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=7c5cff" alt="Open GameHubJS" /></a>
+<br /><br />
+<strong>Highlights</strong>
+<br />
+<div align="left"><ul>
+<li>60+ free browser games playable without downloads</li>
+<li>Accounts, Google OAuth and optional authenticator 2FA</li>
+<li>Leaderboards, achievements, challenges and tournaments</li>
+<li>Chat rooms, favorites, ratings and player statistics</li>
+<li>Admin moderation, analytics and donation monitoring</li>
+<li>Six languages, RTL support and installable PWA</li>
+</ul></div>
+<strong>Tech Stack</strong>
+<br />
+<table width="100%"><tr><th align="left">Layer</th><th align="left">Technology</th></tr>
+<tr><td>Backend</td><td>Python · Flask · Jinja2</td></tr>
+<tr><td>Data</td><td>SQLAlchemy · Alembic · SQLite · PostgreSQL</td></tr>
+<tr><td>Auth</td><td>Flask-Login · Flask-WTF · Authlib</td></tr>
+<tr><td>Realtime</td><td>Flask-SocketIO · eventlet · Redis</td></tr>
+<tr><td>Frontend</td><td>HTML · CSS · JS · Canvas · Three.js · Cannon.js</td></tr>
+<tr><td>Services</td><td>Stripe donations · Resend</td></tr>
+<tr><td>Ops / i18n</td><td>Gunicorn · Flask-Babel · PWA</td></tr>
+</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -222,6 +186,10 @@
 ---
 
 <h2 align="center">📈 GitHub <code>// Activity & Consistency</code></h2>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pandadev2470&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="PandaDev GitHub profile views counter" />
+</div>
 
 <div align="center">
 
