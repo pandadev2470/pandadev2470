@@ -21,12 +21,26 @@
 <h2 align="center">PandaDev <code>// Development Agency</code></h2>
 
 **Highlights**
-- Custom websites and web applications tailored to individual and business needs.
-- End-to-end development, from planning and user interface design to deployment.
-- Business software solutions focused on usability, maintainability and growth.
-- Responsive, accessible experiences for desktop, tablet and mobile.
-- Multilingual website and application support.
-- [Explore services and get in touch](https://www.pandadevhub.com/).
+- Custom web and mobile applications, business dashboards, client portals, automation and websites.
+- End-to-end client workflow: project requests, digital contracts, secure document signing, Stripe payments and project workspaces.
+- App Catalogue with application demos, downloads and project showcases.
+- Client support tickets, milestones, invoices, call booking, site monitoring and monthly reports.
+- Free learning hub with guided projects, code challenges, a playground and 25 browser-based developer tools.
+- Team and freelancer management with role-based permissions, audit logs and mandatory staff 2FA.
+- 12 languages with Hebrew and Arabic RTL support, dark/light themes and installable PWA.
+- [Explore PandaDev services and applications](https://www.pandadevhub.com/).
+
+**Tech Stack**
+
+| Layer | Technology |
+|:--|:--|
+| Backend | Python · Flask 3 · SQLAlchemy 2 · Flask-Migrate |
+| Frontend | Jinja2 · Tailwind CSS · HTML · JavaScript · Material Icons |
+| Database | PostgreSQL (production) · SQLite (development) |
+| Security | Flask-Login · Flask-WTF · Flask-Limiter · TOTP 2FA |
+| Documents | fpdf2 · qrcode · Pillow |
+| Integrations | Stripe · Resend · Authlib |
+| Deployment | Render · Gunicorn · Docker · PWA |
 
 ---
 
@@ -34,7 +48,7 @@
 
 <!-- GitHub-safe compact comparison: no nested tables or fixed pixel widths. -->
 <table>
-<thead><tr><th width="50%" align="center">🛡️ VulnHawk</th><th width="50%" align="center">🎮 GameHubJS</th></tr></thead>
+
 <tbody>
 <tr>
 <td align="center" valign="top"><a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" width="160"></a></td>
