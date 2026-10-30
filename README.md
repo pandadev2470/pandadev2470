@@ -77,20 +77,31 @@
 
 ---
 
-<h2 align="center">🚀 Feature Projects</h2>
+<h2 align="center">Featured Tools</h2>
 
-<div align="center">
-
-| Project | Focus |
-|---|---|
-| [VulnHawk](https://vulnhawk.app) | Web security scanner |
-| [ClaretHub](https://clarethub.com) | Portfolio |
-| [PandaDev](https://www.pandadevhub.com) | Development agency |
-| [BerrieBoo](https://berrieboo.com) | E-commerce |
-| [GameHub JS](https://gamehubjs.com) | Browser games |
-| [Panda3DPrints](https://www.panda3dprints.com) | 3D printing |
-
-</div>
+<!-- Two-column GitHub-compatible layout matching Featured Applications. -->
+<table>
+<tbody>
+<tr>
+<td align="center" valign="top"><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/pdf.png" alt="PDF Toolkit preview" width="100%"></a></td>
+<td align="center" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool preview" width="100%"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top"><strong>PDF Toolkit — 14 free PDF editing, conversion &amp; comparison tools</strong><br><a href="https://pdf-toolkit-1cwa.onrender.com/">Launch PDF Toolkit ↗</a></td>
+<td align="center" valign="top"><strong>Data Visualization Tool — interactive spreadsheet charts &amp; reports</strong><br><a href="https://data-visualization-tool-j92b.onrender.com/">Launch Data Visualization Tool ↗</a></td>
+</tr>
+<tr><th align="center">Highlights</th><th align="center">Highlights</th></tr>
+<tr>
+<td valign="top">• 14 PDF tools: merge, split, edit, convert &amp; compress<br>• Side-by-side PDF comparison with visual diffs<br>• Previews before downloading results<br>• Local processing; no document uploads or accounts<br>• ZIP exports &amp; English/Spanish UI<br>• Responsive, privacy-focused design</td>
+<td valign="top">• Import CSV, TSV, XLSX &amp; XLS spreadsheets<br>• Seven customizable chart types<br>• Search, filter, sort &amp; inspect data quality<br>• Export CSV, Excel, PNG, PDF &amp; chart layouts<br>• Local browser processing with safeguards<br>• English/Spanish UI &amp; responsive dashboards</td>
+</tr>
+<tr><th align="center">Tech Stack</th><th align="center">Tech Stack</th></tr>
+<tr>
+<td valign="top"><strong>UI:</strong> React, JavaScript, CSS<br><strong>Build:</strong> Vite<br><strong>PDF:</strong> pdf-lib, PDF.js<br><strong>Archives:</strong> fflate<br><strong>Quality:</strong> Playwright, Prettier<br><strong>Architecture:</strong> Browser-only, no backend</td>
+<td valign="top"><strong>UI:</strong> React, JavaScript, CSS, Lucide React<br><strong>Build:</strong> Vite<br><strong>Charts:</strong> Recharts<br><strong>Parsing:</strong> Papa Parse, SheetJS<br><strong>Exports:</strong> html2canvas, jsPDF<br><strong>Processing:</strong> Web Workers<br><strong>Ops:</strong> Playwright, Render</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
