@@ -1,4 +1,38 @@
-<!-- GitHub profile README. Section titles are centered outside collapsible panels. All five panels start expanded; remove `open` from any <details open> tag to collapse that panel by default. -->
+<!-- WELCOME: Always visible above the collapsible sections. -->
+<div align="center">
+
+<h1>Welcome to PandaDev 👋</h1>
+
+<h2>Building Ideas Into Digital Reality.</h2>
+
+<p>Custom software, intelligent applications, and practical developer tools — built to solve real-world problems.</p>
+
+<img src="https://img.shields.io/badge/Software-Development-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="Software Development" />
+<img src="https://img.shields.io/badge/AI_%26-Automation-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="AI and Automation" />
+<img src="https://img.shields.io/badge/Developer-Tools-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="Developer Tools" />
+
+<h3>Follow PandaDev &amp; Stay Connected</h3>
+
+<p>Follow along for new applications, open-source projects, developer tools, tutorials, and behind-the-scenes updates.</p>
+
+<!-- Social badges use official brand icons provided by Simple Icons through Shields.io. -->
+<a href="https://x.com/pandadev2470"><img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow PandaDev on X" /></a>
+<a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow PandaDev on GitHub" /></a>
+<!-- TODO: Replace this LinkedIn link with your exact LinkedIn profile URL. -->
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn — profile URL pending" />
+<a href="https://www.reddit.com/user/pandadev2470/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Follow PandaDev on Reddit" /></a>
+<a href="https://dev.to/pandadev2470"><img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" alt="Follow PandaDev on DEV Community" /></a>
+<a href="https://news.ycombinator.com/user?id=Pandadev2470"><img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&amp;logo=ycombinator&amp;logoColor=white" alt="Follow PandaDev on Hacker News" /></a>
+<a href="https://www.tiktok.com/@pandadev2470"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="Follow PandaDev on TikTok" /></a>
+<a href="https://pandadev2470.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white" alt="Follow PandaDev on itch.io" /></a>
+
+<p><a href="https://pandadevhub.com/"><img src="https://img.shields.io/badge/Explore-PandaDev-00DFA2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=07110e" alt="Visit PandaDev website" /></a></p>
+
+</div>
+
+---
+
+<!-- GitHub profile README. Section titles are centered outside collapsible panels. The original expanded/collapsed defaults are preserved; add or remove `open` on a <details> tag to change its default state. -->
 
 <!-- SECTION 1: Remove `open` from the <details> tag to collapse this section by default. -->
 <h2 align="center">PandaDev // Development Studio</h2>
@@ -8,7 +42,11 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=2000&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI-Powered+Applications%3BFull-Stack+Development%3BCustom+Web+Applications%3BMobile+App+Development%3BSaaS+Platform+Development%3BBusiness+Software+Solutions%3BWorkflow+Automation%3BAPI+Development+%26+Integration%3BData+Analytics+%26+Dashboards%3BCybersecurity+Solutions" alt="Animated PandaDev tagline" /></a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=AI-Powered+Applications%3BFull-Stack+Development%3BCustom+Software+Solutions%3BSaaS+%26+Mobile+Development%3BAutomation+%26+Integration" alt="PandaDev animated highlights" width="100%" />
+
+</div>
 
 **CUSTOM WEB APPLICATIONS & SOFTWARE DEVELOPMENT**
 
@@ -31,6 +69,13 @@
 
 <details >
 <summary>Show / Hide Featured Applications</summary>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=1800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Software+Built+for+Real+Problems%3BIntelligent+Digital+Experiences%3BSecure+%26+Scalable+Applications%3BInnovative+Web+Platforms%3BTurning+Concepts+Into+Products" alt="Featured Applications animated highlights" width="100%" />
+
+</div>
 
 <!-- Two-column GitHub-compatible application showcase. -->
 <table>
@@ -64,6 +109,13 @@
 
 <details open>
 <summary>Show / Hide Featured Tools</summary>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=1800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Powerful+Tools.+Simple+Experience.%3BWork+Smarter.+Build+Faster.%3BExplore.+Create.+Innovate.%3BSimplifying+Everyday+Workflows%3BFree+Tools+for+Curious+Minds" alt="Featured Tools animated highlights" width="100%" />
+
+</div>
 
 <!-- Three columns; dedicated button rows ensure horizontal alignment on GitHub. -->
 <table>
@@ -113,7 +165,11 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=680&lines=Tools+for+building+from+frontend+to+infrastructure.;A+versatile+stack+for+shipping+real+products.;Code.+Connect.+Deploy.+Improve." alt="Animated technology stack tagline" /></a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=1800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Modern+Development+Technologies%3BFrom+Frontend+to+Infrastructure%3BBuilding+Secure+%26+Scalable+Systems%3BCloud%2C+Data+%26+AI+Engineering%3BBuild.+Test.+Deploy.+Improve." alt="Toolbox animated highlights" width="100%" />
+
+</div>
 
 </div>
 
