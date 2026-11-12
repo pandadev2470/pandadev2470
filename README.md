@@ -29,7 +29,7 @@
 <!-- SECTION 2: Remove `open` from the <details> tag to collapse this section by default. -->
 <h2 align="center">Featured Applications // Showcase</h2>
 
-<details open>
+<details >
 <summary>Show / Hide Featured Applications</summary>
 
 <!-- Two-column GitHub-compatible application showcase. -->
