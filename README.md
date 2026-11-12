@@ -1,8 +1,12 @@
-<h2 align="center">PandaDev <code>// Development Studio</code></h2>
+<!-- GitHub profile README. All five sections are expanded by default. To collapse one on initial load, change <details open> to <details> for that section. -->
+
+<!-- SECTION 1: Remove `open` from the <details> tag to collapse this section by default. -->
+<details open>
+<summary><strong>PandaDev // Development Studio</strong></summary>
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated PandaDev tagline" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=2000&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI-Powered+Applications%3BFull-Stack+Development%3BCustom+Web+Applications%3BMobile+App+Development%3BSaaS+Platform+Development%3BBusiness+Software+Solutions%3BWorkflow+Automation%3BAPI+Development+%26+Integration%3BData+Analytics+%26+Dashboards%3BCybersecurity+Solutions" alt="Animated PandaDev tagline" /></a>
 
 **CUSTOM WEB APPLICATIONS & SOFTWARE DEVELOPMENT**
 
@@ -16,9 +20,13 @@
 
 </div>
 
+</details>
+
 ---
 
-<h2 align="center">Featured Applications</h2>
+<!-- SECTION 2: Remove `open` from the <details> tag to collapse this section by default. -->
+<details open>
+<summary><strong>Featured Applications</strong></summary>
 
 <!-- Two-column GitHub-compatible application showcase. -->
 <table>
@@ -43,9 +51,13 @@
 </tbody>
 </table>
 
+</details>
+
 ---
 
-<h2 align="center">Featured Tools</h2>
+<!-- SECTION 3: Remove `open` from the <details> tag to collapse this section by default. -->
+<details open>
+<summary><strong>Featured Tools</strong></summary>
 
 <!-- Three columns; dedicated button rows ensure horizontal alignment on GitHub. -->
 <table>
@@ -82,9 +94,14 @@
 </tr>
 </tbody>
 </table>
+
+</details>
+
 ---
 
-<h2 align="center">⚡ Toolbox <code>// Stack</code></h2>
+<!-- SECTION 4: Remove `open` from the <details> tag to collapse this section by default. -->
+<details open>
+<summary><strong>Toolbox // Stack</strong></summary>
 
 <div align="center">
 
@@ -142,9 +159,13 @@
 
 </div>
 
+</details>
+
 ---
 
-<h2 align="center">📈 GitHub <code>// Activity & Consistency</code></h2>
+<!-- SECTION 5: Remove `open` from the <details> tag to collapse this section by default. -->
+<details open>
+<summary><strong>GitHub // Activity & Consistency</strong></summary>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pandadev2470&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="PandaDev GitHub profile views counter" />
@@ -171,3 +192,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9d,50:073b2a,100:07110e&height=3&section=footer" width="100%" alt="" />
 </div>
+
+</details>
