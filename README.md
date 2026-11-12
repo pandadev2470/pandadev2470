@@ -49,17 +49,14 @@
 <!-- Two-column GitHub-compatible application showcase. -->
 <table>
 <tbody>
-<tr>
-<td align="center" width="50%" valign="top"><a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" width="160"></a></td>
-<td align="center" width="50%" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/logo2.svg" alt="GameHubJS logo" width="160"></a></td>
-</tr>
+
 <tr>
 <td align="center" valign="top"><a href="https://vulnhawk.app"><img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk security dashboard" width="100%"></a></td>
 <td align="center" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/GameHubJS_Demo.png" alt="GameHubJS games dashboard" width="100%"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top"><strong>VulnHawk</strong><br>Web security scanning, repository audits &amp; monitoring</td>
-<td align="center" valign="top"><strong>GameHubJS</strong><br>Free browser games &amp; community features</td>
+<td align="center" valign="top"><h3 align="center">VulnHawk</h3>Web security scanning, repository audits &amp; monitoring</td>
+<td align="center" valign="top"><h3 align="center">GameHubJS</h3>Free browser games &amp; community features</td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="middle"><a href="https://vulnhawk.app"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=07110e" alt="Launch VulnHawk"></a></td>
@@ -85,9 +82,9 @@
 <td width="33%" align="center" valign="top"><a href="https://terminalstudio-pandadev.onrender.com"><img src="assets/terminalstudio.png" alt="Terminal Studio application preview" width="100%"></a></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><strong>SchemaCraft</strong><br><br>Design relational databases visually with editable tables, columns, relationships, and indexes. Generate PostgreSQL, MySQL, or SQLite SQL; compare schema versions, review migration scripts, and save projects locally.</td>
-<td width="33%" align="center" valign="top"><strong>Dev Tools</strong><br><br>A private developer workbench with 63 utilities across 11 categories. Format JSON and YAML, test regex, inspect URLs, generate code, compare text, and chain transformations—processed locally with offline support.</td>
-<td width="33%" align="center" valign="top"><strong>Terminal Studio</strong><br><br>Practice Linux commands safely in a simulated terminal with 40+ commands, a virtual filesystem, guided lessons, challenges, and command previews. Explore files, save checkpoints, and learn without running real system commands.</td>
+<td width="33%" align="center" valign="top"><h3 align="center">SchemaCraft</h3>Design relational databases visually with editable tables, columns, relationships, and indexes. Generate PostgreSQL, MySQL, or SQLite SQL; compare schema versions, review migration scripts, and save projects locally.</td>
+<td width="33%" align="center" valign="top"><h3 align="center">Dev Tools</h3>A private developer workbench with 63 utilities across 11 categories. Format JSON and YAML, test regex, inspect URLs, generate code, compare text, and chain transformations—processed locally with offline support.</td>
+<td width="33%" align="center" valign="top"><h3 align="center">Terminal Studio</h3>Practice Linux commands safely in a simulated terminal with 40+ commands, a virtual filesystem, guided lessons, challenges, and command previews. Explore files, save checkpoints, and learn without running real system commands.</td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="bottom"><a href="https://schemacraft-pandadev.onrender.com"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch SchemaCraft"></a></td>
@@ -100,9 +97,9 @@
 <td width="33%" align="center" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool application preview" width="100%"></a></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><strong>Python Academy</strong><br><br>Learn Python through structured lessons, knowledge checks, hands-on exercises, and projects. A persistent browser-based Python IDE lets you write and run practice code alongside the learning material.</td>
-<td width="33%" align="center" valign="top"><strong>PDF Toolkit</strong><br><br>A free, privacy-focused PDF workspace with 14 tools to merge, split, reorder, convert, compress, watermark, and compare documents. Preview results before downloading; files are processed locally in your browser.</td>
-<td width="33%" align="center" valign="top"><strong>Data Visualization Tool</strong><br><br>Turn CSV and Excel spreadsheets into interactive dashboards with seven chart types, searchable tables, filters, and data-quality insights. Export charts and reports while keeping spreadsheet data in your browser.</td>
+<td width="33%" align="center" valign="top"><h3 align="center">Python Academy</h3>Learn Python through structured lessons, knowledge checks, hands-on exercises, and projects. A persistent browser-based Python IDE lets you write and run practice code alongside the learning material.</td>
+<td width="33%" align="center" valign="top"><h3 align="center">PDF Toolkit</h3>A free, privacy-focused PDF workspace with 14 tools to merge, split, reorder, convert, compress, watermark, and compare documents. Preview results before downloading; files are processed locally in your browser.</td>
+<td width="33%" align="center" valign="top"><h3 align="center">Data Visualization Tool</h3>Turn CSV and Excel spreadsheets into interactive dashboards with seven chart types, searchable tables, filters, and data-quality insights. Export charts and reports while keeping spreadsheet data in your browser.</td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="bottom"><a href="https://python-academy-pandadev.onrender.com"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch Python Academy"></a></td>
