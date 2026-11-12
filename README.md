@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/AI_%26-Automation-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="AI and Automation" />
 <img src="https://img.shields.io/badge/Developer-Tools-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="Developer Tools" />
 
-<!-- Render green heading as SVG because GitHub sanitizes inline HTML font colors. -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=999999&amp;pause=0&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=42&amp;repeat=false&amp;cursor=false&amp;lines=Follow+PandaDev+%26+Stay+Connected" alt="Follow PandaDev &amp; Stay Connected" width="620" />
+<!-- Keep the green heading visible: the SVG loops rather than disappearing after one animation. -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=1800&amp;pause=60000&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=42&amp;repeat=true&amp;cursor=false&amp;lines=Follow+PandaDev+%26+Stay+Connected" alt="Follow PandaDev &amp; Stay Connected" width="620" />
 
 <!-- Larger, high-contrast branded badges with intentional spacing and line breaks for mobile. -->
 <p align="center">
