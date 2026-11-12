@@ -46,31 +46,24 @@
 
 <h2 align="center">Featured Applications</h2>
 
-<!-- GitHub-safe compact comparison: no nested tables or fixed pixel widths. -->
+<!-- Two-column GitHub-compatible application showcase. -->
 <table>
-
 <tbody>
 <tr>
-<td align="center" valign="top"><a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" width="160"></a></td>
-<td align="center" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/logo2.svg" alt="GameHubJS logo" width="160"></a></td>
+<td align="center" width="50%" valign="top"><a href="https://vulnhawk.app"><img src="./assets/logo_app.svg" alt="VulnHawk logo" width="160"></a></td>
+<td align="center" width="50%" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/logo2.svg" alt="GameHubJS logo" width="160"></a></td>
 </tr>
 <tr>
 <td align="center" valign="top"><a href="https://vulnhawk.app"><img src="./assets/VulnHawk_Demo_img.png" alt="VulnHawk security dashboard" width="100%"></a></td>
 <td align="center" valign="top"><a href="https://www.gamehubjs.com/"><img src="assets/GameHubJS_Demo.png" alt="GameHubJS games dashboard" width="100%"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top"><strong>Web security scanning, repository audits &amp; monitoring</strong><br><a href="https://vulnhawk.app">Launch VulnHawk ↗</a></td>
-<td align="center" valign="top"><strong>60+ free browser games &amp; community features</strong><br><a href="https://www.gamehubjs.com/">Play GameHubJS ↗</a></td>
+<td align="center" valign="top"><strong>VulnHawk</strong><br>Web security scanning, repository audits &amp; monitoring<br><a href="https://vulnhawk.app">Launch VulnHawk ↗</a></td>
+<td align="center" valign="top"><strong>GameHubJS</strong><br>Free browser games &amp; community features<br><a href="https://www.gamehubjs.com/">Play GameHubJS ↗</a></td>
 </tr>
-<tr><th align="center">Highlights</th><th align="center">Highlights</th></tr>
 <tr>
-<td valign="top">• 83 security checks; OWASP Top 10:2025<br>• Public GitHub repository audits<br>• Scan diffing &amp; compliance mapping<br>• Seven export formats<br>• Scheduled scans, SSL &amp; uptime alerts<br>• MFA, PWA &amp; worker monitoring</td>
-<td valign="top">• 60+ free browser games<br>• Accounts, Google OAuth &amp; 2FA<br>• Leaderboards &amp; achievements<br>• Chat, favorites &amp; tournaments<br>• Admin tools &amp; donation monitoring<br>• Six languages, RTL &amp; PWA</td>
-</tr>
-<tr><th align="center">Tech Stack</th><th align="center">Tech Stack</th></tr>
-<tr>
-<td valign="top"><strong>Backend:</strong> Python, FastAPI, uv<br><strong>Data:</strong> SQLAlchemy, PostgreSQL, SQLite, Alembic<br><strong>UI:</strong> Jinja2, Tailwind, Three.js<br><strong>Jobs:</strong> asyncio, APScheduler, httpx<br><strong>Reports:</strong> WeasyPrint, XLSX, SARIF<br><strong>Services:</strong> Stripe, Resend, Web Push<br><strong>Ops:</strong> Render, structlog, pytest</td>
-<td valign="top"><strong>Backend:</strong> Python, Flask, Jinja2<br><strong>Data:</strong> SQLAlchemy, PostgreSQL, SQLite, Alembic<br><strong>Auth:</strong> Flask-Login, Authlib, Flask-WTF<br><strong>Realtime:</strong> SocketIO, eventlet, Redis<br><strong>UI:</strong> HTML, CSS, JS, Canvas, Three.js<br><strong>Services:</strong> Stripe, Resend<br><strong>Ops:</strong> Gunicorn, Flask-Babel, PWA</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• 83 security checks; OWASP Top 10:2025<br>• GitHub audits, scan comparisons &amp; compliance mapping<br>• Seven report formats, scheduled scans &amp; SSL/uptime alerts<br>• MFA, PWA &amp; worker monitoring<br><br><strong>Stack:</strong> Python, FastAPI, SQLAlchemy, PostgreSQL, SQLite, Jinja2, Tailwind, APScheduler, Stripe, Resend, Render</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• 60+ browser games with leaderboards &amp; achievements<br>• Google OAuth, 2FA, chat &amp; tournaments<br>• Favorites, administration &amp; donations<br>• Six languages, RTL &amp; PWA<br><br><strong>Stack:</strong> Python, Flask, Jinja2, SQLAlchemy, PostgreSQL, SQLite, SocketIO, Redis, Canvas, Three.js, Stripe, Resend</td>
 </tr>
 </tbody>
 </table>
@@ -79,26 +72,38 @@
 
 <h2 align="center">Featured Tools</h2>
 
-<!-- Two-column GitHub-compatible layout matching Featured Applications. -->
+<!-- Three-column GitHub-compatible tools showcase. -->
 <table>
 <tbody>
 <tr>
-<td align="center" valign="top"><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/pdf.png" alt="PDF Toolkit preview" width="100%"></a></td>
-<td align="center" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool preview" width="100%"></a></td>
+<td align="center" width="33%" valign="top"><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/pdf.png" alt="PDF Toolkit application preview" width="100%"></a></td>
+<td align="center" width="33%" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool application preview" width="100%"></a></td>
+<td align="center" width="33%" valign="top"><a href="https://schemacraft-pandadev.onrender.com"><img src="assets/schemacraft.png" alt="SchemaCraft application preview" width="100%"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top"><strong>PDF Toolkit — 14 free PDF editing, conversion &amp; comparison tools</strong><br><a href="https://pdf-toolkit-1cwa.onrender.com/">Launch PDF Toolkit ↗</a></td>
-<td align="center" valign="top"><strong>Data Visualization Tool — interactive spreadsheet charts &amp; reports</strong><br><a href="https://data-visualization-tool-j92b.onrender.com/">Launch Data Visualization Tool ↗</a></td>
+<td align="center" valign="top"><strong>PDF Toolkit</strong><br>14 browser-based PDF tools<br><a href="https://pdf-toolkit-1cwa.onrender.com/">Launch PDF Toolkit ↗</a></td>
+<td align="center" valign="top"><strong>Data Visualization Tool</strong><br>Spreadsheet charts &amp; reports<br><a href="https://data-visualization-tool-j92b.onrender.com/">Launch Data Visualization Tool ↗</a></td>
+<td align="center" valign="top"><strong>SchemaCraft</strong><br>Visual database schema designer<br><a href="https://schemacraft-pandadev.onrender.com">Launch SchemaCraft ↗</a></td>
 </tr>
-<tr><th align="center">Highlights</th><th align="center">Highlights</th></tr>
 <tr>
-<td valign="top">• 14 PDF tools: merge, split, edit, convert &amp; compress<br>• Side-by-side PDF comparison with visual diffs<br>• Previews before downloading results<br>• Local processing; no document uploads or accounts<br>• ZIP exports &amp; English/Spanish UI<br>• Responsive, privacy-focused design</td>
-<td valign="top">• Import CSV, TSV, XLSX &amp; XLS spreadsheets<br>• Seven customizable chart types<br>• Search, filter, sort &amp; inspect data quality<br>• Export CSV, Excel, PNG, PDF &amp; chart layouts<br>• Local browser processing with safeguards<br>• English/Spanish UI &amp; responsive dashboards</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• Merge, split, convert &amp; compress PDFs<br>• Visual comparison &amp; result previews<br>• Local processing; English &amp; Spanish<br><br><strong>Stack:</strong> React, Vite, JavaScript, CSS, pdf-lib, PDF.js, fflate</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• Import CSV, TSV &amp; Excel files<br>• Seven charts, filters &amp; data-quality insights<br>• Local processing; dashboard exports<br><br><strong>Stack:</strong> React, Vite, Recharts, Papa Parse, SheetJS, Web Workers, jsPDF</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• Design tables, relationships &amp; indexes<br>• PostgreSQL, MySQL &amp; SQLite SQL exports<br>• Version comparison, migrations &amp; local backups<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, SVG, Web Workers, Python, uv</td>
 </tr>
-<tr><th align="center">Tech Stack</th><th align="center">Tech Stack</th></tr>
 <tr>
-<td valign="top"><strong>UI:</strong> React, JavaScript, CSS<br><strong>Build:</strong> Vite<br><strong>PDF:</strong> pdf-lib, PDF.js<br><strong>Archives:</strong> fflate<br><strong>Quality:</strong> Playwright, Prettier<br><strong>Architecture:</strong> Browser-only, no backend</td>
-<td valign="top"><strong>UI:</strong> React, JavaScript, CSS, Lucide React<br><strong>Build:</strong> Vite<br><strong>Charts:</strong> Recharts<br><strong>Parsing:</strong> Papa Parse, SheetJS<br><strong>Exports:</strong> html2canvas, jsPDF<br><strong>Processing:</strong> Web Workers<br><strong>Ops:</strong> Playwright, Render</td>
+<td align="center" width="33%" valign="top"><a href="https://terminalstudio-pandadev.onrender.com"><img src="assets/terminalstudio.png" alt="Terminal Studio application preview" width="100%"></a></td>
+<td align="center" width="33%" valign="top"><a href="https://devtools-pandadev.onrender.com"><img src="assets/devtools.png" alt="Dev Tools application preview" width="100%"></a></td>
+<td align="center" width="33%" valign="top"><a href="https://python-academy-pandadev.onrender.com"><img src="assets/pythonacademy.png" alt="Python Academy application preview" width="100%"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top"><strong>Terminal Studio</strong><br>Interactive Linux terminal learning<br><a href="https://terminalstudio-pandadev.onrender.com">Launch Terminal Studio ↗</a></td>
+<td align="center" valign="top"><strong>Dev Tools</strong><br>63 browser-based developer utilities<br><a href="https://devtools-pandadev.onrender.com">Launch Dev Tools ↗</a></td>
+<td align="center" valign="top"><strong>Python Academy</strong><br>Interactive Python learning platform<br><a href="https://python-academy-pandadev.onrender.com">Launch Python Academy ↗</a></td>
+</tr>
+<tr>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• 40+ simulated commands &amp; virtual files<br>• Guided lessons, challenges &amp; command previews<br>• Tabs, checkpoints, offline workspace<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, ES modules, Python, uv</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• JSON, YAML, regex, encoding &amp; security tools<br>• Local editors, diffs &amp; tool chaining<br>• 11 categories; private, offline-capable<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, CodeMirror, Web Workers, Python, uv</td>
+<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• 200 lessons &amp; 400 knowledge checks<br>• 210 practice variants &amp; 15 projects<br>• Persistent IDE with browser-based Python<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, Pyodide, Web Workers, Python, uv</td>
 </tr>
 </tbody>
 </table>
@@ -179,8 +184,8 @@
 
 <br />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=pandadev2470&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=e6fff5&rank_icon=github" alt="PandaDev GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadev2470&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=e6fff5" alt="Most used languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandadev2470&theme=github_dark" alt="PandaDev GitHub statistics" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandadev2470&theme=github_dark" alt="Most used languages" />
 
 </div>
 
