@@ -1,3 +1,5 @@
+<h2 align="center">PandaDev <code>// Development Studio</code></h2>
+
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated PandaDev tagline" /></a>
@@ -13,30 +15,6 @@
 </a>
 
 </div>
-
-<h2 align="center">PandaDev <code>// Development Studio</code></h2>
-
-**Highlights**
-- Custom web and mobile applications, business dashboards, client portals, automation and websites.
-- End-to-end client workflow: project requests, digital contracts, secure document signing, Stripe payments and project workspaces.
-- App Catalogue with application demos, downloads and project showcases.
-- Client support tickets, milestones, invoices, call booking, site monitoring and monthly reports.
-- Free learning hub with guided projects, code challenges, a playground and 25 browser-based developer tools.
-- Team and freelancer management with role-based permissions, audit logs and mandatory staff 2FA.
-- 12 languages with Hebrew and Arabic RTL support, dark/light themes and installable PWA.
-- [Explore PandaDev services and applications](https://www.pandadevhub.com/).
-
-**Tech Stack**
-
-| Layer | Technology |
-|:--|:--|
-| Backend | Python · Flask 3 · SQLAlchemy 2 · Flask-Migrate |
-| Frontend | Jinja2 · Tailwind CSS · HTML · JavaScript · Material Icons |
-| Database | PostgreSQL (production) · SQLite (development) |
-| Security | Flask-Login · Flask-WTF · Flask-Limiter · TOTP 2FA |
-| Documents | fpdf2 · qrcode · Pillow |
-| Integrations | Stripe · Resend · Authlib |
-| Deployment | Render · Gunicorn · Docker · PWA |
 
 ---
 
@@ -89,8 +67,8 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top"><a href="https://python-academy-pandadev.onrender.com"><img src="assets/PythonAcademy.png" alt="Python Academy application preview" width="100%"></a></td>
-<td width="33%" align="center" valign="top"><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/pdf.png" alt="PDF Toolkit application preview" width="100%"></a></td>
-<td width="33%" align="center" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool application preview" width="100%"></a></td>
+<td width="33%" align="center" valign="top"><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/PDFToolkit.png" alt="PDF Toolkit application preview" width="100%"></a></td>
+<td width="33%" align="center" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/DataVisualization.png" alt="Data Visualization Tool application preview" width="100%"></a></td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top"><h3 align="center">Python Academy</h3>Learn Python through structured lessons, knowledge checks, hands-on exercises, and projects. A persistent browser-based Python IDE lets you write and run practice code alongside the learning material.</td>
