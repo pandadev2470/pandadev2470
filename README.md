@@ -2,7 +2,7 @@
 
 <!-- SECTION 1: Remove `open` from the <details> tag to collapse this section by default. -->
 <details open>
-<summary><strong>PandaDev // Development Studio</strong></summary>
+<summary><h2>PandaDev // Development Studio</h2></summary>
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 <!-- SECTION 2: Remove `open` from the <details> tag to collapse this section by default. -->
 <details open>
-<summary><strong>Featured Applications</strong></summary>
+<summary><h2>Featured Applications</h2></summary>
 
 <!-- Two-column GitHub-compatible application showcase. -->
 <table>
@@ -57,7 +57,7 @@
 
 <!-- SECTION 3: Remove `open` from the <details> tag to collapse this section by default. -->
 <details open>
-<summary><strong>Featured Tools</strong></summary>
+<summary><h2>Featured Tools</h2></summary>
 
 <!-- Three columns; dedicated button rows ensure horizontal alignment on GitHub. -->
 <table>
@@ -101,7 +101,7 @@
 
 <!-- SECTION 4: Remove `open` from the <details> tag to collapse this section by default. -->
 <details open>
-<summary><strong>Toolbox // Stack</strong></summary>
+<summary><h2>Toolbox // Stack</h2></summary>
 
 <div align="center">
 
@@ -165,7 +165,7 @@
 
 <!-- SECTION 5: Remove `open` from the <details> tag to collapse this section by default. -->
 <details open>
-<summary><strong>GitHub // Activity & Consistency</strong></summary>
+<summary><h2>GitHub // Activity & Consistency</h2></summary>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pandadev2470&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="PandaDev GitHub profile views counter" />
