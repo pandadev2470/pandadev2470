@@ -7,7 +7,6 @@
 <!-- Five rotating welcome messages replace the previous static headline. -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+Ideas+Into+Digital+Reality.%3BTurning+Vision+Into+Working+Software.%3BCreating+Smarter+Digital+Experiences.%3BEngineering+Solutions+That+Make+an+Impact.%3BFrom+Imagination+to+Innovation." alt="PandaDev animated welcome message" width="100%" />
 
-<p>Custom software, intelligent applications, and practical developer tools — built to solve real-world problems.</p>
 
 <img src="https://img.shields.io/badge/Software-Development-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="Software Development" />
 <img src="https://img.shields.io/badge/AI_%26-Automation-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="AI and Automation" />
