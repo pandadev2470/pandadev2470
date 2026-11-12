@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://www.pandadevhub.com/">
-  <img src="assets/logo4.png" alt="PandaDev development studio logo" width="340" />
-</a>
-
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Custom+software.+Built+for+you.;From+idea+to+deployment.;Web+applications+that+grow+with+you." alt="Animated PandaDev tagline" /></a>
 
 **CUSTOM WEB APPLICATIONS & SOFTWARE DEVELOPMENT**
@@ -79,7 +75,7 @@
 <tr>
 <td width="33%" align="center" valign="top"><a href="https://schemacraft-pandadev.onrender.com"><img src="assets/SchemaCraft.png" alt="SchemaCraft application preview" width="100%"></a></td>
 <td width="33%" align="center" valign="top"><a href="https://devtools-pandadev.onrender.com"><img src="assets/DevTools.png" alt="Dev Tools application preview" width="100%"></a></td>
-<td width="33%" align="center" valign="top"><a href="https://terminalstudio-pandadev.onrender.com"><img src="assets/terminalstudio.png" alt="Terminal Studio application preview" width="100%"></a></td>
+<td width="33%" align="center" valign="top"><a href="https://terminalstudio-pandadev.onrender.com"><img src="assets/TerminalStudio.png" alt="Terminal Studio application preview" width="100%"></a></td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top"><h3 align="center">SchemaCraft</h3>Design relational databases visually with editable tables, columns, relationships, and indexes. Generate PostgreSQL, MySQL, or SQLite SQL; compare schema versions, review migration scripts, and save projects locally.</td>
