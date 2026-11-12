@@ -1,8 +1,10 @@
-<!-- GitHub profile README. All five sections are expanded by default. To collapse one on initial load, change <details open> to <details> for that section. -->
+<!-- GitHub profile README. Section titles are centered outside collapsible panels. All five panels start expanded; remove `open` from any <details open> tag to collapse that panel by default. -->
 
 <!-- SECTION 1: Remove `open` from the <details> tag to collapse this section by default. -->
+<h2 align="center">PandaDev // Development Studio</h2>
+
 <details open>
-<summary><h1 align="center">PandaDev // Development Studio</h1></summary>
+<summary>Show / Hide PandaDev</summary>
 
 <div align="center">
 
@@ -25,8 +27,10 @@
 ---
 
 <!-- SECTION 2: Remove `open` from the <details> tag to collapse this section by default. -->
+<h2 align="center">Featured Applications // Showcase</h2>
+
 <details open>
-<summary><h1 align="center">Featured Applications // Showcase</h1></summary>
+<summary>Show / Hide Featured Applications</summary>
 
 <!-- Two-column GitHub-compatible application showcase. -->
 <table>
@@ -56,8 +60,10 @@
 ---
 
 <!-- SECTION 3: Remove `open` from the <details> tag to collapse this section by default. -->
+<h2 align="center">Featured Tools // Utilities</h2>
+
 <details open>
-<summary><h1 align="center">Featured Tools // Utilities</h1></summary>
+<summary>Show / Hide Featured Tools</summary>
 
 <!-- Three columns; dedicated button rows ensure horizontal alignment on GitHub. -->
 <table>
@@ -100,8 +106,10 @@
 ---
 
 <!-- SECTION 4: Remove `open` from the <details> tag to collapse this section by default. -->
+<h2 align="center">Toolbox // Stack</h2>
+
 <details open>
-<summary><h1 align="center">Toolbox // Stack</h1></summary>
+<summary>Show / Hide Toolbox</summary>
 
 <div align="center">
 
@@ -164,8 +172,10 @@
 ---
 
 <!-- SECTION 5: Remove `open` from the <details> tag to collapse this section by default. -->
+<h2 align="center">GitHub // Activity & Consistency</h2>
+
 <details open>
-<summary><h1 align="center">GitHub // Activity & Consistency</h1></summary>
+<summary>Show / Hide GitHub</summary>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pandadev2470&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="PandaDev GitHub profile views counter" />
