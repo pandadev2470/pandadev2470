@@ -72,38 +72,48 @@
 
 <h2 align="center">Featured Tools</h2>
 
-<!-- Three-column GitHub-compatible tools showcase. -->
+<!-- Three-column showcase. Image names match the GitHub assets directory exactly (case-sensitive). -->
 <table>
 <tbody>
 <tr>
-<td align="center" width="33%" valign="top"><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/pdf.png" alt="PDF Toolkit application preview" width="100%"></a></td>
-<td align="center" width="33%" valign="top"><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool application preview" width="100%"></a></td>
-<td align="center" width="33%" valign="top"><a href="https://schemacraft-pandadev.onrender.com"><img src="assets/schemacraft.png" alt="SchemaCraft application preview" width="100%"></a></td>
+<td width="33%" align="center" valign="top">
+<a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="assets/pdf.png" alt="PDF Toolkit application preview" width="100%"></a>
+<br><br><strong>PDF Toolkit</strong>
+<br><br>A free, privacy-focused PDF workspace with 14 tools to merge, split, reorder, convert, compress, watermark, and compare documents. Preview results before downloading; files are processed locally in your browser.
+<br><br><a href="https://pdf-toolkit-1cwa.onrender.com/"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch PDF Toolkit"></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://data-visualization-tool-j92b.onrender.com/"><img src="assets/visual.png" alt="Data Visualization Tool application preview" width="100%"></a>
+<br><br><strong>Data Visualization Tool</strong>
+<br><br>Turn CSV and Excel spreadsheets into interactive dashboards with seven chart types, searchable tables, filters, and data-quality insights. Export charts and reports while keeping spreadsheet data in your browser.
+<br><br><a href="https://data-visualization-tool-j92b.onrender.com/"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch Data Visualization Tool"></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://schemacraft-pandadev.onrender.com"><img src="assets/SchemaCraft.png" alt="SchemaCraft application preview" width="100%"></a>
+<br><br><strong>SchemaCraft</strong>
+<br><br>Design relational databases visually with editable tables, columns, relationships, and indexes. Generate PostgreSQL, MySQL, or SQLite SQL; compare schema versions, review migration scripts, and save projects locally.
+<br><br><a href="https://schemacraft-pandadev.onrender.com"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch SchemaCraft"></a>
+</td>
 </tr>
 <tr>
-<td align="center" valign="top"><strong>PDF Toolkit</strong><br>14 browser-based PDF tools<br><a href="https://pdf-toolkit-1cwa.onrender.com/">Launch PDF Toolkit ↗</a></td>
-<td align="center" valign="top"><strong>Data Visualization Tool</strong><br>Spreadsheet charts &amp; reports<br><a href="https://data-visualization-tool-j92b.onrender.com/">Launch Data Visualization Tool ↗</a></td>
-<td align="center" valign="top"><strong>SchemaCraft</strong><br>Visual database schema designer<br><a href="https://schemacraft-pandadev.onrender.com">Launch SchemaCraft ↗</a></td>
-</tr>
-<tr>
-<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• Merge, split, convert &amp; compress PDFs<br>• Visual comparison &amp; result previews<br>• Local processing; English &amp; Spanish<br><br><strong>Stack:</strong> React, Vite, JavaScript, CSS, pdf-lib, PDF.js, fflate</td>
-<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• Import CSV, TSV &amp; Excel files<br>• Seven charts, filters &amp; data-quality insights<br>• Local processing; dashboard exports<br><br><strong>Stack:</strong> React, Vite, Recharts, Papa Parse, SheetJS, Web Workers, jsPDF</td>
-<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• Design tables, relationships &amp; indexes<br>• PostgreSQL, MySQL &amp; SQLite SQL exports<br>• Version comparison, migrations &amp; local backups<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, SVG, Web Workers, Python, uv</td>
-</tr>
-<tr>
-<td align="center" width="33%" valign="top"><a href="https://terminalstudio-pandadev.onrender.com"><img src="assets/terminalstudio.png" alt="Terminal Studio application preview" width="100%"></a></td>
-<td align="center" width="33%" valign="top"><a href="https://devtools-pandadev.onrender.com"><img src="assets/devtools.png" alt="Dev Tools application preview" width="100%"></a></td>
-<td align="center" width="33%" valign="top"><a href="https://python-academy-pandadev.onrender.com"><img src="assets/pythonacademy.png" alt="Python Academy application preview" width="100%"></a></td>
-</tr>
-<tr>
-<td align="center" valign="top"><strong>Terminal Studio</strong><br>Interactive Linux terminal learning<br><a href="https://terminalstudio-pandadev.onrender.com">Launch Terminal Studio ↗</a></td>
-<td align="center" valign="top"><strong>Dev Tools</strong><br>63 browser-based developer utilities<br><a href="https://devtools-pandadev.onrender.com">Launch Dev Tools ↗</a></td>
-<td align="center" valign="top"><strong>Python Academy</strong><br>Interactive Python learning platform<br><a href="https://python-academy-pandadev.onrender.com">Launch Python Academy ↗</a></td>
-</tr>
-<tr>
-<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• 40+ simulated commands &amp; virtual files<br>• Guided lessons, challenges &amp; command previews<br>• Tabs, checkpoints, offline workspace<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, ES modules, Python, uv</td>
-<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• JSON, YAML, regex, encoding &amp; security tools<br>• Local editors, diffs &amp; tool chaining<br>• 11 categories; private, offline-capable<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, CodeMirror, Web Workers, Python, uv</td>
-<td valign="top"><strong>Highlights &amp; Tech Stack</strong><br><br>• 200 lessons &amp; 400 knowledge checks<br>• 210 practice variants &amp; 15 projects<br>• Persistent IDE with browser-based Python<br><br><strong>Stack:</strong> JavaScript, HTML, CSS, Pyodide, Web Workers, Python, uv</td>
+<td width="33%" align="center" valign="top">
+<a href="https://terminalstudio-pandadev.onrender.com"><img src="assets/terminalstudio.png" alt="Terminal Studio application preview" width="100%"></a>
+<br><br><strong>Terminal Studio</strong>
+<br><br>Practice Linux commands safely in a simulated terminal with 40+ commands, a virtual filesystem, guided lessons, challenges, and command previews. Explore files, save checkpoints, and learn without running real system commands.
+<br><br><a href="https://terminalstudio-pandadev.onrender.com"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch Terminal Studio"></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://devtools-pandadev.onrender.com"><img src="assets/DevTools.png" alt="Dev Tools application preview" width="100%"></a>
+<br><br><strong>Dev Tools</strong>
+<br><br>A private developer workbench with 63 utilities across 11 categories. Format JSON and YAML, test regex, inspect URLs, generate code, compare text, and chain transformations—processed locally with offline support.
+<br><br><a href="https://devtools-pandadev.onrender.com"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch Dev Tools"></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://python-academy-pandadev.onrender.com"><img src="assets/PythonAcademy.png" alt="Python Academy application preview" width="100%"></a>
+<br><br><strong>Python Academy</strong>
+<br><br>Learn Python through structured lessons, knowledge checks, hands-on exercises, and projects. A persistent browser-based Python IDE lets you write and run practice code alongside the learning material.
+<br><br><a href="https://python-academy-pandadev.onrender.com"><img src="https://img.shields.io/badge/Launch_App-00DFA2?style=for-the-badge&logo=googlechrome&logoColor=07110e" alt="Launch Python Academy"></a>
+</td>
 </tr>
 </tbody>
 </table>
