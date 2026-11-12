@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/AI_%26-Automation-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="AI and Automation" />
 <img src="https://img.shields.io/badge/Developer-Tools-07110e?style=for-the-badge&amp;logoColor=00FF9D" alt="Developer Tools" />
 
-<h3>Follow PandaDev &amp; Stay Connected</h3>
+<h3><font color="#00FF9D">Follow PandaDev &amp; Stay Connected</font></h3>
 
 <!-- Larger, high-contrast branded badges with intentional spacing and line breaks for mobile. -->
 <p align="center">
