@@ -15,16 +15,11 @@
 
 <h3>Follow PandaDev &amp; Stay Connected</h3>
 
-<!-- Compact icon-only official brand SVGs. No empty Shields.io badge labels (which produce 404s). -->
-<a href="https://x.com/pandadev2470"><img src="https://cdn.simpleicons.org/x/white" alt="X" width="24" height="24" /></a>
-<a href="https://github.com/pandadev2470"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="24" height="24" /></a>
-<!-- LinkedIn icon shown without a link until the correct profile URL is supplied. -->
-<img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn (profile link pending)" width="24" height="24" />
-<a href="https://www.reddit.com/user/pandadev2470/"><img src="https://cdn.simpleicons.org/reddit" alt="Reddit" width="24" height="24" /></a>
-<a href="https://dev.to/pandadev2470"><img src="https://cdn.simpleicons.org/devdotto/white" alt="DEV Community" width="24" height="24" /></a>
-<a href="https://news.ycombinator.com/user?id=Pandadev2470"><img src="https://cdn.simpleicons.org/ycombinator" alt="Hacker News" width="24" height="24" /></a>
-<a href="https://www.tiktok.com/@pandadev2470"><img src="https://cdn.simpleicons.org/tiktok" alt="TikTok" width="24" height="24" /></a>
-<a href="https://pandadev2470.itch.io/"><img src="https://cdn.simpleicons.org/itchdotio" alt="itch.io" width="24" height="24" /></a>
+<!-- Compact, branded social badges. Nonempty badge labels prevent Shields.io 404 errors. -->
+<p align="center">
+<a href="https://x.com/pandadev2470"><img src="https://img.shields.io/badge/X-111111?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" height="23" /></a> <a href="https://github.com/pandadev2470"><img src="https://img.shields.io/badge/GH-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" height="23" /></a> <img src="https://img.shields.io/badge/in-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="23" /> <a href="https://www.reddit.com/user/pandadev2470/"><img src="https://img.shields.io/badge/r-FF4500?style=flat-square&amp;logo=reddit&amp;logoColor=white" alt="Reddit" height="23" /></a> <a href="https://dev.to/pandadev2470"><img src="https://img.shields.io/badge/DEV-111111?style=flat-square&amp;logo=devdotto&amp;logoColor=white" alt="DEV Community" height="23" /></a> <a href="https://news.ycombinator.com/user?id=Pandadev2470"><img src="https://img.shields.io/badge/HN-FF6600?style=flat-square&amp;logo=ycombinator&amp;logoColor=white" alt="Hacker News" height="23" /></a> <a href="https://www.tiktok.com/@pandadev2470"><img src="https://img.shields.io/badge/TT-111111?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" height="23" /></a> <a href="https://pandadev2470.itch.io/"><img src="https://img.shields.io/badge/itch-FA5C5C?style=flat-square&amp;logo=itchdotio&amp;logoColor=white" alt="itch.io" height="23" /></a>
+</p>
+<!-- LinkedIn is intentionally unlinked until the exact profile URL is provided. -->
 
 <p><a href="https://pandadevhub.com/"><img src="https://img.shields.io/badge/Explore-PandaDev-00DFA2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=07110e" alt="Visit PandaDev website" /></a></p>
 
