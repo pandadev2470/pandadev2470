@@ -42,7 +42,7 @@
 <!-- SECTION 1: Remove `open` from the <details> tag to collapse this section by default. -->
 <h2 align="center">PandaDev // Development Studio</h2>
 
-<details open >
+<details >
 <summary>Show / Hide PandaDev</summary>
 
 <div align="center">
